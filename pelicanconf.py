@@ -72,8 +72,8 @@ SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
                          'Contact: <a href="mailto:lovelicton@gmail.com" style="color: #e04c40; font-weight: bold">'
                          'lovelicton@gmail.com</a></div>'
                          '<br />'
-                         'Feed: <a href="localhost:8000/feeds/all.rss.xml" style="color: #ee802f; font-weight: '
-                         'bold;">RSS</a> <a href="localhost:8000/feeds/all.atom.xml" style="color: #07b392; '
+                         'Feed: <a href="/feeds/all.rss.xml" style="color: #ee802f; font-weight: '
+                         'bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; '
                          'font-weight: bold;">Atom</a>'}
   
 SOCIAL = (('twitter', 'https://twitter.com/lictonlove'),
