@@ -34,9 +34,9 @@ Email us story ideas, corrections, photos, updates, or anything else: [lovelicto
 Want to keep up with all things Licton Springs? We offer many ways to stay in touch:
 
 <a class="twitter-follow-button"
-  href="https://twitter.com/LictonLove"
+  href="https://twitter.com/LoveLicton"
   data-size="large">
-Follow @LictonLove</a>
+Follow @LoveLicton</a>
 
 <div class="fb-page" data-href="https://www.facebook.com/lovelicton" data-tabs="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/lovelicton" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/lovelicton">LoveLicton</a></blockquote></div>
 
