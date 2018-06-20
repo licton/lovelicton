@@ -61,7 +61,7 @@ AUTHORS_BIO = {
   }
 }
 SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
-                'right': 'Follow: <a href="https://twitter.com/LictonLove" style="color: #1da1f3; font-weight: bold;">'
+                'right': 'Follow: <a href="https://twitter.com/LoveLicton" style="color: #1da1f3; font-weight: bold;">'
                          'Twitter</a> '
                          '<a href="https://www.facebook.com/lovelicton" style="color: #4267b2; font-weight: bold;">'
                          'Facebook</a> '
