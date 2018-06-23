@@ -1,8 +1,8 @@
 Title: Your Voice, Your Choice 2018: Licton Springs Park
 Date: 2018-06-22 8:00
 Author: amandacrosley
-Category: Events
-Tags: General, Activities, Fun, Disc Golf
+Category: Parks
+Tags: General, Parks, Improvements, Voting
 slug: your-voice-your-choice-2018
 og_image: images/park/paths.jpg
 
