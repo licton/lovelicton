@@ -29,8 +29,13 @@ They told us that every time your disc hits one of those poles and makes a littl
 Hope to enjoy the summer weather, learn how to Disc Golf, and ring in some North Park Love with some of you there!
 
 ## Event Details
+<span style="text-decoration: line-through;">
 **Facebook Event**: [https://www.facebook.com/events/180160409336598/](https://www.facebook.com/events/180160409336598/) <br />
-**Event start time**: Tuesday 6/19/2018 6:30 PM <br />
+**Event start time**: Tuesday 6/19/2018 6:30 PM <br /> <br />
+</span>
+**UPDATE** We've made this a recurring event, the third Tuesday of every month. The next scheduled beginners game is: <br /><br />
+**Facebook Event**: [https://www.facebook.com/events/618053928556827/](https://www.facebook.com/events/618053928556827/) <br />
+**Event start time**: Tuesday 7/17/2018 6:30 PM  <br />
 **Location**:
 1500 N 105th St, Seattle, WA 98133 <br />
 Meet at the benches by the south entrance to the park
