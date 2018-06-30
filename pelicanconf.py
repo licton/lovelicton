@@ -33,7 +33,7 @@ CSS_OVERRIDE = ['static/main.css']
 STATIC_PATHS = ['static',
                 'images',
                 'images/spring',
-                'extra/robots.txt', 
+                'extra/robots.txt',
                 'extra/favicon.ico',
                 'extra/CNAME'
 ]
@@ -75,7 +75,7 @@ SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
                          'Feed: <a href="/feeds/all.rss.xml" style="color: #ee802f; font-weight: '
                          'bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; '
                          'font-weight: bold;">Atom</a>'}
-  
+
 SOCIAL = (('twitter', 'https://twitter.com/lictonlove'),
           ('facebook','https://facebook.com/lovelicton'),
           ('envelope','mailto:lovelicton@gmail.com'))
@@ -91,6 +91,19 @@ DEFAULT_PAGINATION = 5
 DISQUS_SITENAME = 'lovelicton'
 GOOGLE_ANALYTICS = 'UA-115518273-1'
 SHOW_FULL_ARTICLE = True
+
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = (
+    ('About Licton Springs', '/pages/about-licton-springs.html'),
+    ('Get Involved', 'http://localhost:8000/pages/get-involved.html'),
+    ('Community Council', 'https://lictonsprings.org/'),
+    ('Community Calendar', '/pages/community-calendar.html'),
+    ('About LoveLicton', '/pages/about-lovelicton.html'),
+    ('Connect with Us', '/pages/connect-with-us.html'),
+    ('Map of the neighborhood', '/pages/map-of-the-neighborhood.html'),
+)
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
