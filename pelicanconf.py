@@ -97,7 +97,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
     ('About Licton Springs', '/pages/about-licton-springs.html'),
-    ('Get Involved', 'http://localhost:8000/pages/get-involved.html'),
+    ('Get Involved', '/pages/get-involved.html'),
     ('Community Council', 'https://lictonsprings.org/'),
     ('Community Calendar', '/pages/community-calendar.html'),
     ('About LoveLicton', '/pages/about-lovelicton.html'),
