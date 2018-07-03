@@ -6,7 +6,7 @@ Tags: General, Website, Licton Springs Community Council, Community Involvement
 slug: new-community-council-website
 og_image: images/spring/reaching.jpg
 
-[![Website Partnership](images/partnership.jpg)](https://lictonsprings.org/)
+[![Website Partnership](/images/partnership.jpg)](https://lictonsprings.org/)
 
 For the last month work has been going on behind the scenes to refresh the Licton Springs Community Council Website,
 and I'm excited to say this new site is ready to be unveiled! You can now visit the brand new website at [lictonsprings.org](https://lictonsprings.org).

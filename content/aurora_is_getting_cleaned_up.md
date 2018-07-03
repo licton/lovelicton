@@ -10,7 +10,7 @@ The next time you walk or ride up Aurora you may notice it's cleaner than usual.
 
 At the same time, SPD and Licton Spring's own North Precinct have been hard at work to bust a local pawn shop that incentivised theft within North Seattle. Along with the closure of the business, this had the side effect of finally permanently removing an Aurora fixture that we will all be happy to see go:
 
-[![Aurora Lady Statue](images/aurora/rare_coins.jpg)](images/aurora/rare_coins.jpg)
+[![Aurora Lady Statue](/images/aurora/rare_coins.jpg)](/images/aurora/rare_coins.jpg)
 
 (See more on the [spdblotter](http://spdblotter.seattle.gov/2018/05/21/north-seattle-coin-shop-busted-for-selling-stolen-goods/))
 
@@ -18,6 +18,6 @@ Finally, [Aurora is going to be repaved and sidewalk ramps made ADA compliant ov
 
 While more work is needed along this historic stretch of Seattle, it's encouraging that we are starting to see progress toward an Aurora that we can all take pride in.
 
-[![Historic 99](images/aurora/historic.jpg)](images/aurora/historic.jpg)
+[![Historic 99](/images/aurora/historic.jpg)](/images/aurora/historic.jpg)
 
 

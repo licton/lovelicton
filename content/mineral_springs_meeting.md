@@ -12,12 +12,12 @@ Join other members of the community on May 1st, 6:00PM-8:30PM, to help shape the
 The meeting will be open to the general public, so whether you live near the park or frequent it for disk golf, this is an
 important meeting to attend.
 
-[![Mineral Springs Park](images/mineral_springs/bench.jpg)](images/mineral_springs/bench.jpg)
+[![Mineral Springs Park](/images/mineral_springs/bench.jpg)](/images/mineral_springs/bench.jpg)
 
 The meeting will be held at Meridian Health Clinic, room 110, 10521 Meridian Ave N, Seattle, which is right next to the park:
-[![Meridian Health Clinic](images/mineral_springs/clinic.jpg)](images/mineral_springs/clinic.jpg)
+[![Meridian Health Clinic](/images/mineral_springs/clinic.jpg)](/images/mineral_springs/clinic.jpg)
 
 Hope to see you there!
 
 [Facebook Event](https://www.facebook.com/events/620773244941071/)
-[![2018 May Meeting](images/mineral_springs/2018_may_meeting.jpg)](images/mineral_springs/2018_may_meeting.jpg)
+[![2018 May Meeting](/images/mineral_springs/2018_may_meeting.jpg)](/images/mineral_springs/2018_may_meeting.jpg)

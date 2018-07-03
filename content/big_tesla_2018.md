@@ -11,8 +11,8 @@ The art not only serves as a sign of nicer weather, as flowers bloom from Tesla'
 nature can coexist in harmony. In a way, it's the perfect Seattle art piece, a city nestled in some of the most profoundly beautiful natural
 environments while leading the way in our technological future.
 
-[![Close Up](images/tesla/up_close.jpg)](images/tesla/up_close.jpg)
-[![Close Up](images/tesla/sign.jpg)](images/tesla/sign.jpg)
+[![Close Up](/images/tesla/up_close.jpg)](/images/tesla/up_close.jpg)
+[![Close Up](/images/tesla/sign.jpg)](/images/tesla/sign.jpg)
 
 For more information about this work:
 
