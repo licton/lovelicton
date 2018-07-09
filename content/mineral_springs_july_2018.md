@@ -19,7 +19,7 @@ Here you can provide feedback to the city on what repairs or improvements should
 
 
 ### July 17th: Learn To Disc Golf
-* **Time:** 6:30pm to 8pm (feel free to show up a little late)
+* **Time:** 6:30pm to 8pm
 * **Location:** Mineral Springs Park (1500 N 105th St, Seattle, WA 98133)
 * **Event URL:** [https://www.facebook.com/events/618053928556827](https://www.facebook.com/events/618053928556827)
 * **Sponsor:** LoveLicton
