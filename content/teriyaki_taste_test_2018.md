@@ -43,7 +43,7 @@ NOTE: Many of them also have lunch specials for around $7.
 
     The only Teriyaki place of the 4 that neither of us had been to before, so we are both stoked to try it out for the first time.
 
-    - Address: 10002 Aurora Ave N, Seattle, WA 98133
+    - Address: 2100 N Northgate Way b, Seattle, WA 98133
     - Hours: 11AM-9PM Monday-Saturday, Closed Sunday
     - Current Health Rating: Excellent
 
