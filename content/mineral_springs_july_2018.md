@@ -33,6 +33,7 @@ Come join us for a beginner's disc golf game at Mineral Springs Park with help f
 * **Location:** Mineral Springs Park (1500 N 105th St, Seattle, WA 98133)
 * **Sponsor:** Randy Wiger, Seattle Parks & Recreation
 
+[![Mineral Springs Park Clean Up](/images/mineral_springs/clean.jpg)](/images/mineral_springs/clean.jpg)
 Come join your neighbors at a Parks department-supported clean up event. Refreshments and tools will be provided.
 
 ### **July 21st: Mineral Springs Park Community BBQ**
@@ -41,5 +42,6 @@ Come join your neighbors at a Parks department-supported clean up event. Refresh
 * **Event URL:** [https://www.facebook.com/events/250408269069372/](https://www.facebook.com/events/250408269069372/)
 * **Sponsor:** Seattle Parks & Recreation
 
+[![Mineral Springs BBQ!](/images/mineral_springs/bbq.jpg)](/images/mineral_springs/bbq.jpg)
 Come meet your neighbors for a free BBQ at Mineral Springs Park!
 More details to be provided closer to the event but a little birdie told us that there will be music, hot dogs, and lawn games.
