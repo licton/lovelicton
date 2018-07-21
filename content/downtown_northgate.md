@@ -25,9 +25,8 @@ Meanwhile, the redevelopment of the mall into the focal point of this new downto
 
 The transit-oriented development, temporarily paused, has come back in full swing with a new RFP based on free land from King County and an upzone to allow up to 24 story buildings [promised by the end of this month](https://www.seattletimes.com/seattle-news/transportation/king-county-moves-to-allow-affordable-housing-at-future-northgate-light-rail-station/).
 
-And finally, concerns over future of the Northgate Pedestrian bridge which will connect Licton Springs directly to both the developing Light Rail and Downtown Northgate, have been alleviated after the [Seattle Colleges Board of Trustees conditionally agreed to give an easement to the new bridge](https://cascade.org/blog/2018/06/bridge-92-northgate-biking-and-walking-bridge-moving-forward). The latest plans for which, will have the new bridge/path only a [~5 minute walk away from Oak Tree Plaza](https://www.google.com/maps/dir/47.7015386,-122.3422173/47.7014736,-122.335324/@47.7008021,-122.3419329,16z/data=!4m2!4m1!3e2)).
+And finally, concerns over future of the Northgate Pedestrian bridge which will connect Licton Springs directly to both the developing Light Rail and Downtown Northgate, have been alleviated after the [Seattle Colleges Board of Trustees conditionally agreed to give an easement to the new bridge](https://cascade.org/blog/2018/06/bridge-92-northgate-biking-and-walking-bridge-moving-forward). The latest plans for which, will have the new bridge/path only a [~5-10 minute walk away from Oak Tree Plaza](https://www.google.com/maps/dir/47.7015386,-122.3422173/47.7014736,-122.335324/@47.7008021,-122.3419329,16z/data=!4m2!4m1!3e2).
 
 [![New Bridge](/images/downtown_northgate/bridge.png)](/images/downtown_northgate/bridge.png)
 
 No matter how you feel about the developments overall, hopefully, this all will lead to a North Seattle that feels more connected both to Downtown Seattle and to the neighborhoods contained within.
-
