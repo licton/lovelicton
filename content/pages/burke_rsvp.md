@@ -1,9 +1,31 @@
-Title: Burke Night Out RSVP
+Title: Burke Night Out 2018!
 Date: 2018-07-08 2:40
 cover: images/burke/night_out.jpg
 slug: night-out
 status: hidden
 Template: page
+
+# Join your neighbors Tuesday, August 7th for Burke Night Out 2018
+
+Join us for our yearly Block Party & Community Pot Luck 6-8 PM at the cul de sac at [Burke Ave N and N 90th St](https://www.google.com/maps/place/Burke+Ave+N+%26+N+90th+St,+Seattle,+WA+98103/@47.6941353,-122.337305,17z/data=!4m13!1m7!3m6!1s0x54901404924c1a85:0x1a7c3d722a17b9d1!2sBurke+Ave+N+%26+N+90th+St,+Seattle,+WA+98103!3b1!8m2!3d47.6941353!4d-122.3351163!3m4!1s0x54901404924c1a85:0x1a7c3d722a17b9d1!8m2!3d47.6941353!4d-122.3351163).
+It's a great way to get to know your neighbors, discover and mobilize around areas of joint concern, and enjoy a Seattle summer night.
+This year, thanks to funding provided by Seattle's Neighborhood Matching Fund, we will have:
+
+* Proteins catered by Otto's BBQ
+* Non-Alcoholic beverages provided for all ages
+* Bubble Makers and Bubble Wands
+* Scavenger Hunt
+* Snow Cones
+* Face Painter 
+* Entertainer
+
+No need to bring anything, but sides, desserts, chairs, and/or any donations for the food drive will be appreciated.
+
+Hope to see you there!
+
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWpmZjZxYTZlNmh0bDVqMnNuZmc4bTU4dTYgdGltb3RoeS5jcm9zbGV5QG0&amp;tmsrc=timothy.crosley%40gmail.com">Add event to my Calendar</a>
+
+If you would like to RSVP, volunteer, and/or join a neighborhood watch group - please fill out our RSVP form:
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='https://docs.google.com/forms/d/e/1FAIpQLSe2Pnz-esbT22hEI1VUCMo01R71yazhhBmyZI5vMRPoxYGpwg/viewform?usp=sf_link';}"></iframe>
@@ -15,10 +37,13 @@ Template: page
             <input type="text" name="entry.1359909346" autofocus required minlength=2><br>
             <label for="entry.1675084729">Number of guests:</label>
             <input type="number" name="entry.1675084729" value="1" min="1"/><br>
-            <input type="submit" value="RSVP!">
+            <input type="submit" value="Fully Optional RSVP / Volunteer">
         </fieldset>
     </form>
 </div>
+
+
+NOTE: Due to the use of the neighborhood match grant, every hour you volunteer helps pay for this block party!
 
 <style type="text/css">
     .rsvp{
