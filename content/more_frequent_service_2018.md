@@ -10,5 +10,5 @@ og_image: images/aurora/eline.jpg
 
 [![More Frequent E Line Service](/images/aurora/more_frequent.jpg)](/images/aurora/more_frequent.jpg)
 
-This change will positively affect many as The E Line is Metro’s highest-ridership route with more than 17,000 weekday riders.
+This change will positively affect many as the E Line is Metro’s highest-ridership route with more than 17,000 weekday riders.
 
