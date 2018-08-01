@@ -7,7 +7,7 @@ Template: page
 
 # Join your neighbors Tuesday, August 7th for Burke Night Out 2018
 
-Join us for our yearly Block Party & Community Pot Luck 6-8 PM at the cul de sac at [Burke Ave N and N 90th St](https://www.google.com/maps/place/Burke+Ave+N+%26+N+90th+St,+Seattle,+WA+98103/@47.6941353,-122.337305,17z/data=!4m13!1m7!3m6!1s0x54901404924c1a85:0x1a7c3d722a17b9d1!2sBurke+Ave+N+%26+N+90th+St,+Seattle,+WA+98103!3b1!8m2!3d47.6941353!4d-122.3351163!3m4!1s0x54901404924c1a85:0x1a7c3d722a17b9d1!8m2!3d47.6941353!4d-122.3351163).
+Join us for our yearly Block Party & Community Pot Luck 6-9 PM at the cul de sac at [Burke Ave N and N 90th St](https://www.google.com/maps/place/Burke+Ave+N+%26+N+90th+St,+Seattle,+WA+98103/@47.6941353,-122.337305,17z/data=!4m13!1m7!3m6!1s0x54901404924c1a85:0x1a7c3d722a17b9d1!2sBurke+Ave+N+%26+N+90th+St,+Seattle,+WA+98103!3b1!8m2!3d47.6941353!4d-122.3351163!3m4!1s0x54901404924c1a85:0x1a7c3d722a17b9d1!8m2!3d47.6941353!4d-122.3351163).
 It's a great way to get to know your neighbors, discover and mobilize around areas of joint concern, and enjoy a Seattle summer night.
 This year, thanks to funding provided by Seattle's Neighborhood Matching Fund, we will have:
 
@@ -16,7 +16,7 @@ This year, thanks to funding provided by Seattle's Neighborhood Matching Fund, w
 * Bubble Makers and Bubble Wands
 * Scavenger Hunt
 * Snow Cones
-* Face Painter 
+* Face Painter
 * Entertainer
 
 No need to bring anything, but sides, desserts, chairs, and/or any donations for the food drive will be appreciated.
