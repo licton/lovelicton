@@ -26,6 +26,7 @@ The following have been presented so far as ways to achieve this vision:
 [![Traffic Calming](/images/homezone/traffic_calming.jpg)](/images/homezone/traffic_calming.jpg)
 2. A wayfinding and walking distance sign (current recommendation at N 92nd and Wallingford Ave N).
 [![Wayfinding Sign](/images/homezone/walking_sign.jpg)](/images/homezone/walking_sign.jpg)
+(View full set of possible points of interest to include [here](https://docs.google.com/spreadsheets/d/1V-ih_7R6YRcdjjBVk2kI1bTewH1FlMuVM-NzDZ_Xs4Q/edit?usp=sharing).)
 3. A combination cross walk / speed bump at 90th and Burke Ave N, to decrease speed coming down the hill
 4. A Local Access Only sign at Corliss Ave N
 5. Public Street/Intersection art (Location TBD, one possibility is N 88th and Burke Ave N
