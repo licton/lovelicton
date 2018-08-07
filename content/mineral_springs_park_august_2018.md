@@ -27,6 +27,8 @@ On July 19th, the community came together for a Mineral Springs Park work party 
 [![Neighborhood comes together to clean up](/images/mineral_springs/park_cleanup_2.jpg)](/images/mineral_springs/park_cleanup_2.jpg)
 [![Neighborhood comes together to clean up](/images/mineral_springs/park_cleanup_3.jpg)](/images/mineral_springs/park_cleanup_3.jpg)
 
+the next cleanup will be held on **Thursday, August 16th from 5-7pm**.
+
 ### Celebrate:
 
 On July 21st, the community, in partnership with Seattle Parks, held their first event - a free BBQ! Lawn games, live music, food, and neighborhood bonding! Lots of fun was had by all.  Thanks to [How Short](https://www.facebook.com/howshortjazz/) for keeping us entertained with live jazz and our neighborhood volunteers who tended to the grills! Look out for our next event later this summer/early fall.
@@ -34,3 +36,5 @@ On July 21st, the community, in partnership with Seattle Parks, held their first
 
 It's been amazing meeting so many wonderful people from the area and seeing the community come together around this Licton Spring's gem.
 Let's keep up the community engagement! Hope to see you at some of the upcoming events.
+
+[![August Events](/images/mineral_springs/august.jpg)](/images/mineral_springs/august.jpg)

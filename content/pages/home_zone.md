@@ -11,11 +11,11 @@ This area was chosen, in particular, because it represents a small well defined 
 
 This pilot is meant to:
 
-1. Increase walkability and pedestrian activity
-2. Reduce amount and/or speed of cut through traffic with street signs, greenery, and speed bumps
-3. Bring the community together around art installation(s)
+1. Make it safe and comfortable for people of all ages and abilities to walk in our neighborhood
+2. Reduce cut through traffic and speeding by keeping this traffic on the arterials (not increasing traffic on other neighborhood streets), while allowing neighbors to get to their homes, emergency access, deliveries, etc.
+3. Enhance the quality of life for neighbors and strengthen our community (one way to do this is integrating community art).
 
-The pilot covers, and is looking for input from, the area north of 85th, south of 92nd, west of I5 and east of Wallingford Ave. N.
+The pilot covers, and is looking for input from, the area north of 85TH, south of 92ND, west of I5 and east of Wallingford Ave. N.
 Below is a map of the area, as well as some of the ideas that have been proposed for the pilot:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1D2yvYJGKPqQ2Sl-n9U1dxqXP5VucpecC" width="640" height="480"></iframe>
@@ -31,5 +31,13 @@ The following have been presented so far as ways to achieve this vision:
 4. A Local Access Only sign at Corliss Ave N
 5. Public Street/Intersection art (Location TBD, one possibility is N 88th and Burke Ave N
 
-Have other ideas? Willing to volunteer? Want to provide feedback on the home zone concept?
-[Fill out the survey here!](https://docs.google.com/forms/d/e/1FAIpQLScAtYcX8J4IQE_agDKW45oXHEvzt0LaOTQ1lImnO8CdkqSScg/viewform?usp=pp_url&entry.1991292058=Yes)
+[Look here for a catalog of some other Home Zone ideas that could be applied to the neighborhood](https://drive.google.com/file/d/0B0UUHBo0VSx7TTRrU2dDQm16Xzl5Z045V3F6RldlRHg5SzF3/view?usp=sharing)
+
+**Have other ideas? Willing to volunteer? Want to provide feedback on the home zone concept?**
+
+[Fill out the survey here](https://docs.google.com/forms/d/e/1FAIpQLScAtYcX8J4IQE_agDKW45oXHEvzt0LaOTQ1lImnO8CdkqSScg/viewform?usp=pp_url&entry.1991292058=Yes)
+or email us at [meridianhomezone@gmail.com](mailto:meridianhomezone@gmail.com). We could use help knocking on doors, tabling, design, art, DIY projects and more! If you have a specific way you want to get involved let us know!
+
+**Can I donate to the effort?**
+
+Seattle Neighborhood Greenways which is a local nonprofit working to make every neighborhood a great place to walk, bike, and live, is currently supporting this project with staff time and resources. You can donate to help make this a reality at [seattlegreenways.org](seattlegreenways.org). Or contact [Gordon@seattlegreenways.org](mailto:Gordon@seattlegreenways.org) for more information.
