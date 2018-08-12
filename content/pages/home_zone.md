@@ -13,7 +13,7 @@ This pilot is meant to:
 
 1. Make it safe and comfortable for people of all ages and abilities to walk in our neighborhood
 2. Reduce cut through traffic and speeding by keeping this traffic on the arterials (not increasing traffic on other neighborhood streets), while allowing neighbors to get to their homes, emergency access, deliveries, etc.
-3. Enhance the quality of life for neighbors and strengthen our community (one way to do this is integrating community art).
+3. Enhance the quality of life for neighbors and strengthen our community (one way to do this is by integrating community art).
 
 The pilot covers, and is looking for input from, the area north of 85TH, south of 92ND, west of I5 and east of Wallingford Ave. N.
 Below is a map of the area, as well as some of the ideas that have been proposed for the pilot:
@@ -41,3 +41,9 @@ or email us at [meridianhomezone@gmail.com](mailto:meridianhomezone@gmail.com). 
 **Can I donate to the effort?**
 
 Seattle Neighborhood Greenways which is a local nonprofit working to make every neighborhood a great place to walk, bike, and live, is currently supporting this project with staff time and resources. You can donate to help make this a reality at [seattlegreenways.org](seattlegreenways.org). Or contact [Gordon@seattlegreenways.org](mailto:Gordon@seattlegreenways.org) for more information.
+
+**What's next?**
+
+The first public in-person meeting to provide feedback will be held at the Meridian Health Center (10521 Meridian Ave) starting at 6:30 PM September 13th.
+If able, please register your intention to attend the meeting on [Seattle Greenways home zone website](http://seattlegreenways.org/homezone/)
+
