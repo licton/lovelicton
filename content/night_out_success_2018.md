@@ -14,4 +14,13 @@ Thank you to everyone that came out across Licton Springs to meet with your neig
 [![Community Board](/images/2018_night_out/community_board.jpg)](/images/2018_night_out/community_board.jpg)
 [![Emergency Preperation Board](/images/2018_night_out/be_prepared.jpg)](/images/2018_night_out/be_prepared.jpg)
 
+Many community resources were shared at these block parties, including:
+
+* [https://www.smart911.com/](Smart 911) - A way to add the information you want responders to know in case of an emergency before one happens.
+* [http://alert.seattle.gov/](Alert Seattle) - The official emergency notification system used by the City of Seattle to communicate with city residents during emergencies.
+* [https://www.seattle.gov/police/community-policing/block-watch](Block Watch) - Instructions on how to start on officially recognized neighborhood block watch.
+* [http://www.seattle.gov/emergency-management/about-us/event-calendar/](Emergency Event Calendar) - Upcoming events that teach crucial skills needed in the case of an emergency.
+* [https://www.seattle.gov/emergency-management/prepare/prepare-your-neighborhood/community-emergency-hubs](Emergency Hubs) - A map of all the nearby emergency hubs to meet at after an emergency strikes.
+* [https://lovelicton.com/pages/community-calendar.html](Licton Springs Community Calendar) - A shared calendar for all the events happening accross the Licton Springs area.
+
 Here's to hoping the community connections made at Night Out continue to grow over the next year!
