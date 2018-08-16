@@ -6,14 +6,9 @@ Tags: General, Activities, Picnic, Community, Police
 slug: precinct-picnic-2018
 og_image: images/2017_precinct_picnic/banner.jpg
 
-Did you know the only Police Station in all of North Seattle is right here in Licton Springs?
-Now is your chance to meet them!
-This Saturday, August 18th from 1pm to 4pm at the Seattle Police Dept-North Precinct (10049 College Way N) the police department will be hosting a picnic.
-Come check out various booths (including LoveLicton.com!), enjoy music and meet with the many Department units including K-9, Mounted Patrol, Bomb Squad and SWAT.
-Precinct Picnics provide opportunities for each precinct’s surrounding neighborhoods to come together and enjoy an afternoon of celebration with the officers that protect their families and businesses.
-Businesses financially support the event through donations and community groups assist in the planning and execution of each picnic.
+Did you know the only Police Station in all of North Seattle is right here in Licton Springs? Now is your chance to meet them! This Saturday, August 18th from 1 pm to 4 pm at the Seattle Police Dept-North Precinct (10049 College Way N) the police department will be hosting a picnic. Come check out various booths (including LoveLicton.com!), enjoy music and meet with the many Department units including K-9, Mounted Patrol, Bomb Squad, and SWAT. Precinct Picnics provide opportunities for each precinct’s surrounding neighborhoods to come together and enjoy an afternoon of celebration with the officers that protect their families and businesses. Businesses financially support the event through donations and community groups assist in the planning and execution of each picnic.
 
-Here's some images from last years picnic:
+Here are some images from last years picnic:
 
 [![Precinct Vehicles](/images/2017_precinct_picnic/vehicles.jpg)](/images/2017_precinct_picnic/vehicles.jpg)
 [![Horses!](/images/2017_precinct_picnic/horses.jpg)](/images/2017_precinct_picnic/horses.jpg)
