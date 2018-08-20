@@ -40,7 +40,7 @@ or email us at [meridianhomezone@gmail.com](mailto:meridianhomezone@gmail.com). 
 
 **Can I donate to the effort?**
 
-Seattle Neighborhood Greenways which is a local nonprofit working to make every neighborhood a great place to walk, bike, and live, is currently supporting this project with staff time and resources. You can donate to help make this a reality at [seattlegreenways.org](seattlegreenways.org). Or contact [Gordon@seattlegreenways.org](mailto:Gordon@seattlegreenways.org) for more information.
+Seattle Neighborhood Greenways which is a local nonprofit working to make every neighborhood a great place to walk, bike, and live, is currently supporting this project with staff time and resources. You can donate to help make this a reality at [seattlegreenways.org](http://seattlegreenways.org/). Or contact [Gordon@seattlegreenways.org](mailto:Gordon@seattlegreenways.org) for more information.
 
 **What's next?**
 
