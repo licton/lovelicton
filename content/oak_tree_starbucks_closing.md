@@ -4,7 +4,7 @@ Author: timothycrosley
 Category: Retail Closings
 Tags: General, Retail, Coffee, Business Closure
 slug: original_north_seattle_starbucks_closing
-og_image: images/oaktree/futon.jpg
+og_image: images/oaktree/starbucks.jpg
 
 It's a sad day for Starbucks lovers in Licton Springs.
 After 31 years the Oak Tree Starbucks location is set to close permanently this September.
