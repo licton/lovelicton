@@ -27,6 +27,9 @@ Wow! Summer flew by but not to worry, we have some great community events happen
 *   Thursday, September 13th @ 6:30PM, [Licton Springs Home Zone Pilot](https://lovelicton.com/home-zone-2018.html), Meridian Health Center
 *   Thursday, September 13th @ 7PM, [ALUV Monthly Community Meeting](https://www.facebook.com/events/274976659772168/), Epic Life Church
 *   Wednesday, September 19th @6:30PM-8PM, [Licton Springs Community Council](https://lictonsprings.org/), Meridian Center for Health
+*   Thursday, September 20th @5-7PM, [Mineral Springs Work Party](https://www.facebook.com/events/664767133904232/), Mineral Springs Park South Entrance. A work party to clean and maintain the Mineral Springs Park. Sponsored by Seattle Parks & Recreation, Randy Wiger. Tools, gloves, and a snack are provided.
+
+
 
 There are lots of ways to connect with your neighbors. To stay up to date, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html)!  Hope to see you there!
 
