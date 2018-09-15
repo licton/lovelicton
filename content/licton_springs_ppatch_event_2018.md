@@ -1,5 +1,5 @@
 Title: Happening now: Licton Springs PPatch 5th Anniversary
-Date: 2018-09-05 13:00
+Date: 2018-09-15 13:00
 Author: timothycrosley
 Category: Events
 Tags: General, Community Meeting, Event, Outdoors, Parks, PPatch
