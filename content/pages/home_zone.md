@@ -22,14 +22,14 @@ Below is a map of the area, as well as some of the ideas that have been proposed
 
 The following have been presented so far as ways to achieve this vision:
 
-1. ~~Traffic calming and reduction measures on Meridian Ave N (Consisting of Do Not Enter, Local Access Only Signs, Stop Signs, and planters)~~
+1. Traffic calming and reduction measures on Meridian Ave N (Consisting of Do Not Enter, Local Access Only Signs, Stop Signs, and planters)</span>
 [![Traffic Calming](/images/homezone/traffic_calming.jpg)](/images/homezone/traffic_calming.jpg) After discussion with community there appears to be a strong consensus that any traffic calming measures on Meridian should be evenly applied to Corliss and be focused on reducing speed of traffic rather than blocking traffic.
 2. A wayfinding and walking distance sign (current recommendation at N 92nd and Wallingford Ave N).
 [![Wayfinding Sign](/images/homezone/walking_sign.jpg)](/images/homezone/walking_sign.jpg)
 (View full set of possible points of interest to include [here](https://docs.google.com/spreadsheets/d/1V-ih_7R6YRcdjjBVk2kI1bTewH1FlMuVM-NzDZ_Xs4Q/edit?usp=sharing).)
 3. A combination cross walk / speed bump at 90th and Burke Ave N, to decrease speed coming down the hill
 4. A Local Access Only sign at Corliss Ave N
-5. Public Street/Intersection art ~~(Location TBD, one possibility is N 88th and Burke Ave N)~~ The first promising location chosen was 90th and Burke Ave N
+5. Public Street/Intersection art <span style="text-decoration:line-through;">(Location TBD, one possibility is N 88th and Burke Ave N)</span> The first promising location chosen was 90th and Burke Ave N
 
 [Look here for a catalog of some other Home Zone ideas that could be applied to the neighborhood](https://drive.google.com/file/d/0B0UUHBo0VSx7TTRrU2dDQm16Xzl5Z045V3F6RldlRHg5SzF3/view?usp=sharing)
 
