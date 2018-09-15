@@ -22,7 +22,7 @@ Below is a map of the area, as well as some of the ideas that have been proposed
 
 The following have been presented so far as ways to achieve this vision:
 
-1. Traffic calming and reduction measures on Meridian Ave N (Consisting of Do Not Enter, Local Access Only Signs, Stop Signs, and planters)</span>
+1. <span style="text-decoration:line-through;">Traffic calming and reduction measures on Meridian Ave N (Consisting of Do Not Enter, Local Access Only Signs, Stop Signs, and planters)</span>
 [![Traffic Calming](/images/homezone/traffic_calming.jpg)](/images/homezone/traffic_calming.jpg) After discussion with community there appears to be a strong consensus that any traffic calming measures on Meridian should be evenly applied to Corliss and be focused on reducing speed of traffic rather than blocking traffic.
 2. A wayfinding and walking distance sign (current recommendation at N 92nd and Wallingford Ave N).
 [![Wayfinding Sign](/images/homezone/walking_sign.jpg)](/images/homezone/walking_sign.jpg)
