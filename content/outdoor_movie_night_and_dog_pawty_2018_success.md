@@ -44,7 +44,6 @@ And again: many thanks to the sponsors that helped make this event possible!
 * [Sparkling Ice](https://www.facebook.com/SparklingIce/)
 * [Lunchbox Laboratory](https://www.facebook.com/LunchboxLab/)
 * [HelloFresh](https://www.facebook.com/HelloFreshus/)
-* [The Seattle Barkery](https://www.facebook.com/theseattlebarkery/)
 * [LoveLicton](https://lovelicton.com)
 * [Friends Of Mineral Springs Park](https://www.facebook.com/MineralSpringsSeattle/)
 
