@@ -4,7 +4,7 @@ Author: timothycrosley
 Category: Aurora
 Tags: General, Zoning, Pedestrian, Business
 slug: aurora-zone-controls-extension-2018-update
-og_image: images/aurora/movement.gif
+og_image: images/aurora/historic.jpg
 
 Today Seattle's Planning, Land Use, and Zoning Committee adopted a 6 Month extension on new non-pedestrian-oriented developments within the Aurora Licton Urban Village:
 
@@ -17,9 +17,4 @@ The committee's adoption of the ordinance followed significant feedback from our
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6rza2LUi6xY?rel=0&amp;start=870&amp;end=2040" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-In the meantime, as of Monday, the only Coffee shop within the Urban Village has now closed:
-
-[![Starbucks Closed.](/images/oaktree/closed_1.jpg)](/images/oaktree/closed_1.jpg)
-[![Starbucks Closed.](/images/oaktree/closed_2.jpg)](/images/oaktree/closed_2.jpg)
-
-And just a few blocks North, the first new proposed residential apartment project in some time is actively [gathering feedback](https://designreview.info/) up till the 26th of this month.
+Meanwhile, the first new proposed residential apartment project in some time within our Urban Village is actively [gathering feedback](https://designreview.info/) up till the 26th of this month.
