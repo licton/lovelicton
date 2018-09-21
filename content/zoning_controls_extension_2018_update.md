@@ -6,7 +6,7 @@ Tags: General, Zoning, Pedestrian, Business
 slug: aurora-zone-controls-extension-2018-update
 og_image: images/aurora/historic.jpg
 
-Today Seattle's Planning, Land Use, and Zoning Committee adopted a 6 Month extension on new non-pedestrian-oriented developments within the Aurora Licton Urban Village:
+Today Seattle's Planning, Land Use, and Zoning Committee adopted a 6 Month extension on its moratorium for new non-pedestrian-oriented developments within the Aurora Licton Urban Village:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lTLxqxo6q_Y?rel=0&amp;start=2520&amp;end=3223" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
