@@ -10,7 +10,7 @@ We learned today that the controversial Aurora Ave. tiny house village within Li
 
 On the [city's homeless response blog](https://homelessness.seattle.gov/tiny-house-village-update-next-steps-for-licton-springs/), they identify finding permanent houses for the remaining residents as the top priority of the site ahead of its closure, with additional case management and partner agencies brought in to expedite the process.
 
-## Perspective's from around the web on the closure:
+## Perspectives from around the web on the closure:
 * [SeattleTimes: Controversial tiny house village for homelessness in North Seattle to close](https://www.seattletimes.com/seattle-news/homeless/controversial-tiny-house-village-for-homelessness-in-north-seattle-to-close/)
 * [KOUW: Tiny house village on Aurora Ave set to close](https://www.kuow.org/stories/tiny-house-village-on-aurora-set-to-close)
 * [KIRO: Seattle to close controversial tiny house encampment](https://www.kiro7.com/news/local/seattle-to-close-controversial-tiny-house-encampment/841945703)
