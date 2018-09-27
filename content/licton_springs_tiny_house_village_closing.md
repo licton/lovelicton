@@ -6,7 +6,7 @@ Tags: General, Homeless
 slug: licton-springs-tiny-house-village-to-close
 og_image: images/village/village.jpg
 
-We learned today that the controversial Aurora Ave. tiny house village within Licton Springs will be closing for good March of next year. While many members of the local community have voiced their support for helping the least fortunate among us and have diligently donated food to the village, there has been disagreement that the village designed is the best route to solve the problem. Since its creation there have been many complaints of crime that have been attributed to the village as well as a general concern around having an official policy of allowing illicit drug use just blocks from 3 schools, 2 of which are for elementary aged children.
+We learned today that the controversial Aurora Ave. tiny house village within Licton Springs will be closing for good March of next year. While many members of the local community have voiced their support for helping the least fortunate among us and have diligently donated food to the village, there has been disagreement that the village as designed is the best route to solve the problem. Since its creation there have been many complaints of crime that have been attributed to the village as well as a general concern around having an official policy of allowing illicit drug use just blocks from 3 schools, 2 of which are for elementary aged children.
 
 On the [city's homeless response blog](https://homelessness.seattle.gov/tiny-house-village-update-next-steps-for-licton-springs/), they identify finding permanent houses for the remaining residents as the top priority of the site ahead of its closure, with additional case management and partner agencies brought in to expedite the process.
 
