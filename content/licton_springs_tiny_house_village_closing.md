@@ -12,7 +12,7 @@ On the [city's homeless response blog](https://homelessness.seattle.gov/tiny-hou
 
 ## Perspectives from around the web on the closure:
 * [SeattleTimes: Controversial tiny house village for homelessness in North Seattle to close](https://www.seattletimes.com/seattle-news/homeless/controversial-tiny-house-village-for-homelessness-in-north-seattle-to-close/)
-* [KOUW: Tiny house village on Aurora Ave set to close](https://www.kuow.org/stories/tiny-house-village-on-aurora-set-to-close)
+* [KUOW: Tiny house village on Aurora Ave set to close](https://www.kuow.org/stories/tiny-house-village-on-aurora-set-to-close)
 * [KIRO: Seattle to close controversial tiny house encampment](https://www.kiro7.com/news/local/seattle-to-close-controversial-tiny-house-encampment/841945703)
 * [King 5: Controversial tiny house village for Seattle homeless to close](https://www.king5.com/article/news/local/homeless/controversial-tiny-house-village-for-seattle-homeless-to-close/281-598435383)
 * [The Stranger/SLOG: NIMBYs get their way, tiny house village closes](https://www.thestranger.com/slog/2018/09/26/32946409/slog-pm-aurora-avenue-tiny-house-village-slated-for-closure-bomb-threat-in-olympia-this-kayaker-got-bitch-slapped-by-nature)
