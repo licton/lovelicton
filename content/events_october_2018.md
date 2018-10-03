@@ -22,7 +22,7 @@ Learn about the brewing industry and meet other local businesses!
 
 [![Asian Street Food](/images/events/2018/october/street_food.jpg)](/images/events/2018/october/street_food.jpg)
 
-($25 for 4 tickets, $45 for 8 tickets).
+($7 for 1 ticket, $25 for 4 tickets, and $45 for 8 tickets).
 
 20+ local Asian Vendors will be cooking and serving over 100 different types of Asian dishes and snacks, including Chinese Crepes, dumplings, bobas, skewers, fruit teas, dessert and so many more!!
 
