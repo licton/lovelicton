@@ -47,6 +47,8 @@ Seattle technology enthusiasts, students, and professionals are invited to join 
 
 [![Doom Zoom](/images/events/2018/october/zoom_room.jpg)](/images/events/2018/october/zoom_room.jpg)
 
+($15)
+
 It's time for our annual Halloween Party! Cheryl will be busting out her homemade chili and there will food and drink for man and beast!
 Contest and prizes for Best Costume, Best Team Costume and Best Trick! So start planning early!
 Boo Boo's Boosters will be sponsoring the trick contest and the winner goes home with a stash of Boosters!
