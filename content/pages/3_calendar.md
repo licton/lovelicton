@@ -5,12 +5,19 @@ Category: Information
 <style>
     .responsiveCal
     {
-        position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+        position: relative;
+        padding-bottom: 75%;
+        height: 0;
+        overflow: hidden;
     }
 
     .responsiveCal iframe
     {
-        position: absolute; top:0; left: 0; width: 100%; height: 100%;
+        position: absolute;
+        top:0;
+        left: 0;
+        width: 100%;
+        height: 100%;
     }
 
     article.post .inner {
@@ -22,21 +29,19 @@ Category: Information
         #month_calendar {
             display: none;
         }
-
         #agenda_calendar {
             display: block;
         }
     }
+
     @media only screen and (min-width: 600px) {
         #month_calendar {
             display: block;
         }
-
         #agenda_calendar {
             display: none;
         }
     }
-
 </style>
 
 <div class="responsiveCal">
