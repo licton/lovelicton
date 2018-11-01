@@ -13,6 +13,10 @@ Category: Information
         position: absolute; top:0; left: 0; width: 100%; height: 100%;
     }
 
+    article.post .inner {
+        max-width: 1000px;
+    }
+
     @media only screen and (max-width: 600px)
     {
         #month_calendar {
@@ -36,6 +40,6 @@ Category: Information
 </style>
 
 <div class="responsiveCal">
-    <iframe id="month_calendar" src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lovelicton%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe id="month_calendar" src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lovelicton%40gmail.com&amp;color=%2342104A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="1000" height="700" frameborder="0" scrolling="no"></iframe>
     <iframe id="agenda_calendar" src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lovelicton%40gmail.com&amp;color=%2342104A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
