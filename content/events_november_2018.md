@@ -26,7 +26,7 @@ I am certainly _thankful_ for all of the great upcoming community events happeni
 
 Take a quick break from the holidays, meet your neighbors, and join us for free board games, party games, and snacks at Meridian Health room 110. All are welcome.
 
-*   Wednesday, November 28th @ 6PM, [In Practice: Applying Secure Software Design Principles in Open Source](https://www.facebook.com/events/341916543226078/) , North Seattle College, Room CC1161
+*   Wednesday, November 28th @ 6PM, [In Practice: Applying Secure Software Design Principles in Open Source](https://www.meetup.com/North-Seattle-Tech-Talks/events/255745950/), North Seattle College, Room CC1161
 
 [![North Seattle Tech Talks In Practice](/images/events/2018/november/in_practice.jpg)](/images/events/2018/november/in_practice.jpg)
 
