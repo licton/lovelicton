@@ -90,6 +90,13 @@ Discuss Mineral Springs Park events, work parties, and community engagement.
 
 Join Licton Springs Community Council for our monthly meeting.
 
+*   Saturday, November 17th @ 10AM, [Aurora Bridge Art Installation - Ground Prep](https://www.facebook.com/events/1565438684303677/), Aurora Pedestrian Bridge
+
+Help prepare the soil for the planting of 3700 bulbs as part of the art installation at the N. 102nd Street Pedestrian Overpass.
+
+*   Sunday, November 18th @ 10AM, [Aurora Bridge Art Installation - Daffodil Planting](https://www.facebook.com/events/2473996325974293/), Aurora Pedestrian Bridge
+
+Help plant 3700 daffodil bulbs as part of the art installation at the N. 102nd Street Pedestrian Overpass.
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
 Hope to see you at an upcoming event!
