@@ -7,10 +7,10 @@ slug: home-zone-november-2018-update
 og_image: images/homezone/wayfinding_prototype.jpg
 
 Significant progress has been made since we originally introduced the [Licton Spring's Home Zone Pilot](https://lovelicton.com/home-zone-2018.html) back in August.
-Just recently the City passed $350K in funding for Home Zone Pilots (the Licton Springs pilot being the first such in North Seattle), following an article about the project [on Crosscut](https://crosscut.com/2018/11/unwilling-wait-1800-years-sidewalks-seattle-residents-experiment). If all goes well, some of this funding will help to compliment the Small Sparks grant the community was awarded for the project as well as funding received from [Seattle Neighborhood Greenways](http://seattlegreenways.org/). All of which, was accomplished after the community [gave valuable input](https://lovelicton.com/home-zone-2018-meeting-1.html), shaping what such a project would look like in Licton Springs. 
+Just recently the City passed $350K in funding for Home Zone Pilots (the Licton Springs pilot being the first such in North Seattle), following an article about the project [on Crosscut](https://crosscut.com/2018/11/unwilling-wait-1800-years-sidewalks-seattle-residents-experiment). If all goes well, some of this funding will help to compliment the Small Sparks grant the community was awarded for the project as well as funding received from [Seattle Neighborhood Greenways](http://seattlegreenways.org/). All of which, was accomplished after the community [gave valuable input](https://lovelicton.com/home-zone-2018-meeting-1.html), shaping what such a project would look like in Licton Springs.
 
 After discussion with the community and collection of initial traffic counts, we've coalesced on some simple initial steps:
-    
+
 * Intersection / Street Art
 * Planters placed along the roads without sidewalks
 * Pedestrian Wayfinding / newsletter signs
@@ -19,8 +19,8 @@ After discussion with the community and collection of initial traffic counts, we
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dlhIFT5Cjz7EUx-f13_3XqzP_gBwWRgp" width="640" height="480"></iframe>
 
 Despite the progress that has been made - walking around the neighborhood, for the most part, everything still looks untouched.
-While the community has identified many locations that they believe would be suitable for street art, 
-it is not feasible to paint the street during Seattle's rainy season, leaving such work to wait for next year. 
+While the community has identified many locations that they believe would be suitable for street art,
+it is not feasible to paint the street during Seattle's rainy season, leaving such work to wait for next year.
 And, while there have been some areas identified as potentially suitable for planters, this work will not begin
 until permits are secured and impacted households are contacted and give their direct approval.
 
@@ -38,7 +38,7 @@ The sign was constructed by volunteers using basic material and equipment:
 
 During the construction of the sign, which costs well under $200 to build, significant lessons were learned that will be applied to any future wayfinding signs:
 
-- The directions were painted on one side of the each sign, with a solid color on the other, this can lead to the wayfinding sign seeming blank from some angles. Future signs will be 4 inches longer and have the locations printing on both sides.
+- The directions were painted on one side of each direction sign, with a solid color on the other, this can lead to the wayfinding sign seeming blank from some angles. Future signs will be 4 inches longer and have the locations printed on both sides.
 - Some of the direction wood pieces split slightly where they were attached to the main post. Having the directions not use the 4 inches where the connection needs to be made, as well as making pilot holes into the connection points, should remedy this issue for future signs.
 - Over-sized rubber bands are an amazing tool to line up letters.
 - Stencils tend to bleed, and even if they don't they have an amateur appearance. Vinyl letters are cheap, easy, and if done right, resilient.
