@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 
-  <title>Burke Night Out RSVP</title>
+  <title>Search LoveLicton Articles</title>
 
   <meta name="description" content="The blog for the beautiful Licton Springs neighborhood in Seattle, WA. Keep up to date on all the latest retail openings, neighborhood events, and news related to this North Seattle neighborhood." />
 
@@ -99,14 +99,14 @@
       <div class="inner">
         <nav id="navigation">
             <span class="blog-logo">
-                <a href="/"><img src="/images/logo.png" alt="Blog Logo" /></a>
+                <a href="/"><img src="/images/logo_autumn.png" alt="Blog Logo" /></a>
             </span>
           <span id="menu-button" class="nav-button">
             <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
           </span>
         </nav>
-        <h1 class="post-title">Burke Night Out RSVP</h1>
-            <div class="post-cover cover" style="background-image: url('/images/header.jpg')">
+        <h1 class="post-title">Search LoveLicton Articles</h1>
+            <div class="post-cover cover" style="background-image: url('/images/homezone/wayfinding_prototype.jpg')">
       </div>
     </header>
 
@@ -117,11 +117,37 @@
       <article class="post">
       <div class="inner">
           <section class="post-content">
-              <script type="text/javascript">var submitted=false;</script>
+              <p><link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Open+Sans:300|Source+Code+Pro" rel="stylesheet"></p>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='whateveryourredirectis.html';}"></iframe>
+<p><link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css"></p>
+<script type="text/javascript" src="/static/tipuesearch/tipuesearch_set.js"></script>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSffFnFCUaWIJhcOBKxcPE9PlEOqFP0GTdyXpkmL0U3t20cB_w/viewform?embedded=true" method="post" target="hidden_iframe" onsubmit="submitted=true;" />
+<script type="text/javascript" src="/static/tipuesearch/tipuesearch_content.js"></script>
+
+<p><link rel="stylesheet" href="/static/tipuesearch/tipuesearch.css">
+<link rel="stylesheet" href="/static/tipuesearch/gridism.css"></p>
+<div class="grid">
+
+<div class="unit whole">
+<form>
+<div class="tipue_search_group">
+<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
+</div>
+</form>
+
+<div id="tipue_search_content"></div>
+</div>
+</div>
+
+<script>
+$(document).ready(function() {
+    $.getScript( "/static/tipuesearch/tipuesearch.js", function( data, textStatus, jqxhr ) {
+        $('#tipue_search_input').tipuesearch();
+    });
+
+});
+</script>
           </section>
       </div>
       </article>
@@ -135,7 +161,7 @@
 
 
           <span class="credits-theme">Made in Licton Springs, Seattle, WA</span>
-          <span class="credits-software">Follow: <a href="https://twitter.com/LoveLicton" style="color: #1da1f3; font-weight: bold;">Twitter</a> <a href="https://www.facebook.com/lovelicton" style="color: #4267b2; font-weight: bold;">Facebook</a> <a href="https://www.instagram.com/lictonsprings/" style="color: black; font-weight: bold;">Instagram</a><br /><div style="margin: .5em">Contact: <a href="mailto:lovelicton@gmail.com" style="color: #e04c40; font-weight: bold">lovelicton@gmail.com</a></div><br />Feed: <a href="/feeds/all.rss.xml" style="color: #ee802f; font-weight: bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; font-weight: bold;">Atom</a></span>
+          <span class="credits-software">Follow: <a href="https://twitter.com/LoveLicton" style="color: #1da1f3; font-weight: bold;">Twitter</a> <a href="https://www.facebook.com/lovelicton" style="color: #4267b2; font-weight: bold;">Facebook</a> <a href="https://www.instagram.com/lictonsprings/" style="color: black; font-weight: bold;">Instagram</a><br /><div style="margin: .5em">Contact: <a href="mailto:lovelicton@gmail.com" style="color: #e04c40; font-weight: bold">lovelicton@gmail.com</a></div><br/><a href="http://eepurl.com/dONX6X" style="color: #8c790e; font-weight: bold;">Join Mailing List</a><br /><br />Feed: <a href="/feeds/all.rss.xml" style="color: #ee802f; font-weight: bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; font-weight: bold;">Atom</a></span>
         </section>
       </div>
     </footer>
