@@ -33,6 +33,8 @@ Email us story ideas, corrections, photos, updates, or anything else: [lovelicto
 
 Want to keep up with all things Licton Springs? We offer many ways to stay in touch:
 
+<a href="http://eepurl.com/dONX6X" style="color: #8c790e; font-weight: bold;">Join Mailing List</a>
+
 <a class="twitter-follow-button"
   href="https://twitter.com/LoveLicton"
   data-size="large">

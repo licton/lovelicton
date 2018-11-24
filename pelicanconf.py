@@ -15,11 +15,11 @@ DEFAULT_LANG = 'en'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-TRANSLATION_FEED_ATOM = 'feeds/all-%s.atom.xml'
-AUTHOR_FEED_ATOM = 'feeds/%s.atom.xml'
-AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+TRANSLATION_FEED_ATOM = 'feeds/all-{lang}.atom.xml'
+AUTHOR_FEED_ATOM = 'feeds/{slug}.atom.xml'
+AUTHOR_FEED_RSS = 'feeds/{slug}.rss.xml'
 
 THEME = 'attila'
 SITESUBTITLE = 'The Licton Springs Blog'
@@ -29,7 +29,9 @@ SITE_DESCRIPTION = ('The blog for the beautiful Licton Springs neighborhood in S
 SHOW_SITESUBTITLE_IN_HTML = True
 HEADER_COVER = 'images/header.jpg'
 SITE_LOGO = '/images/logo_autumn.png'
-CSS_OVERRIDE = ['static/main.css']
+CSS_OVERRIDE = ['static/main.css',
+                'static/tipuesearch/tipuesearch.css',
+                'https://use.fontawesome.com/releases/v5.5.0/css/all.css']
 STATIC_PATHS = ['static',
                 'images',
                 'images/spring',
@@ -71,6 +73,9 @@ SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
                          '<div style="margin: .5em">'
                          'Contact: <a href="mailto:lovelicton@gmail.com" style="color: #e04c40; font-weight: bold">'
                          'lovelicton@gmail.com</a></div>'
+                         '<br/>'
+                         '<a href="http://eepurl.com/dONX6X" style="color: #8c790e; font-weight: bold;">Join Mailing List</a>'
+                         '<br />'
                          '<br />'
                          'Feed: <a href="/feeds/all.rss.xml" style="color: #ee802f; font-weight: '
                          'bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; '
@@ -103,7 +108,13 @@ MENUITEMS = (
     ('About LoveLicton', '/pages/about-lovelicton.html'),
     ('Connect with Us', '/pages/connect-with-us.html'),
     ('Map of the neighborhood', '/pages/map-of-the-neighborhood.html'),
+    ('Search <i class="fas fa-search fa-flip-horizontal" style="font-size: 150%;vertical-align: middle;height: 20px;color: #2481ba;"></i>', '/pages/search.html'),
 )
 
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["tipue_search", "sitemap", "extract_toc"]
+
+SITEMAP = {'format': 'xml'}
+THEME_TEMPLATES_OVERRIDES = ['templates', ]
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

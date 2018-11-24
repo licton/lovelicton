@@ -1,0 +1,6 @@
+{% extends "!theme/article.html" %}
+
+{% block content %}
+    {{ super() }}
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"102d814c43ec98e687508a493","lid":"74ae7a38b7","uniqueMethods":true}) })</script>
+{% endblock %}
