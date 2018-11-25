@@ -1,0 +1,7 @@
+language: python3
+
+script: bash ./deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "bf6d34e1644f"
+  - COMMIT_AUTHOR_EMAIL: "timothy.crosley@gmail.com"
