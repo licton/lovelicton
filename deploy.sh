@@ -38,4 +38,5 @@ eval `ssh-agent -s`
 ssh-add lovelicton_deploy
 
 # Now that we're all set up, we can push.
-ghp-import output && git push origin gh-pages
+ghp-import -s output
+git push origin gh-pages
