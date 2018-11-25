@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Love Licton</title><link href="https://lovelicton.com/" rel="alternate"></link><link href="https://lovelicton.com/feeds/all-en.atom.xml" rel="self"></link><id>https://lovelicton.com/</id><updated>2018-11-25T13:00:00-08:00</updated><subtitle>The Licton Springs Blog</subtitle><entry><title>New Website features!</title><link href="https://lovelicton.com/website-features-november-2018.html" rel="alternate"></link><published>2018-11-25T13:00:00-08:00</published><updated>2018-11-25T13:00:00-08:00</updated><author><name>timothycrosley</name></author><id>tag:lovelicton.com,2018-11-25:/website-features-november-2018.html</id><summary type="html">&lt;h1&gt;New Website Features&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Newsletter&lt;/li&gt;
-&lt;li&gt;Search&lt;/li&gt;
-&lt;li&gt;Tag browsing&lt;/li&gt;
-&lt;li&gt;Author browsing&lt;/li&gt;
-&lt;li&gt;Category browsing&lt;/li&gt;
-&lt;li&gt;Auto deploy&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;New Website Features&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Newsletter&lt;/li&gt;
-&lt;li&gt;Search&lt;/li&gt;
-&lt;li&gt;Tag browsing&lt;/li&gt;
-&lt;li&gt;Author browsing&lt;/li&gt;
-&lt;li&gt;Category browsing&lt;/li&gt;
-&lt;li&gt;Auto deploy&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Website / Features"></category></entry><entry><title>Happy Thanksgiving!</title><link href="https://lovelicton.com/happy-thanksgiving-2018.html" rel="alternate"></link><published>2018-11-22T15:00:00-08:00</published><updated>2018-11-22T15:00:00-08:00</updated><author><name>timothycrosley</name></author><id>tag:lovelicton.com,2018-11-22:/happy-thanksgiving-2018.html</id><summary type="html">&lt;p&gt;&lt;a href="/images/thanksgiving.jpg"&gt;&lt;img alt="Happy Thanksgiving!" src="/images/thanksgiving.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Love Licton</title><link href="https://lovelicton.com/" rel="alternate"></link><link href="https://lovelicton.com/feeds/all-en.atom.xml" rel="self"></link><id>https://lovelicton.com/</id><updated>2018-11-22T15:00:00-08:00</updated><subtitle>The Licton Springs Blog</subtitle><entry><title>Happy Thanksgiving!</title><link href="https://lovelicton.com/happy-thanksgiving-2018.html" rel="alternate"></link><published>2018-11-22T15:00:00-08:00</published><updated>2018-11-22T15:00:00-08:00</updated><author><name>timothycrosley</name></author><id>tag:lovelicton.com,2018-11-22:/happy-thanksgiving-2018.html</id><summary type="html">&lt;p&gt;&lt;a href="/images/thanksgiving.jpg"&gt;&lt;img alt="Happy Thanksgiving!" src="/images/thanksgiving.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hi Neighbors!&lt;/p&gt;
 &lt;p&gt;We at LoveLicton wanted to wish you a happy Thanksgiving!&lt;/p&gt;
 &lt;p&gt;We have so much to be thankful for this year:&lt;/p&gt;
