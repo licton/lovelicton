@@ -28,7 +28,7 @@ SITE_DESCRIPTION = ('The blog for the beautiful Licton Springs neighborhood in S
                     'this North Seattle neighborhood.')
 SHOW_SITESUBTITLE_IN_HTML = True
 HEADER_COVER = 'images/header.jpg'
-SITE_LOGO = '/images/logo_autumn.png'
+SITE_LOGO = '/images/logo_winter.png'
 CSS_OVERRIDE = ['static/main.css',
                 'static/tipuesearch/tipuesearch.css',
                 'https://use.fontawesome.com/releases/v5.5.0/css/all.css']
