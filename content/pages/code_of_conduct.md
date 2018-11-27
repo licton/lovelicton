@@ -9,7 +9,7 @@ LoveLicton hosts many community events that are open to a wide variety of attend
 
 Diversity is one of our huge strengths, but it can also lead to communication issues. To support a welcoming environment for all, regardless of individual differences, we have a few ground rules that we ask people to adhere to when they participate in this community's activities. These rules apply equally to founders, organizers, moderators, sponsors, and affiliates — in short, to all participants.
 
-This isn’t an exhaustive list of things that you must do, or can’t do. Rather, take it in the spirit in which it’s intended. It’s a guide to make it easier to enrich all of us and the technical communities in which we participate, and which we represent.
+This isn’t an exhaustive list of things that you must do, or can’t do. Rather, take it in the spirit in which it’s intended. It’s a guide to make it easier to enrich all of us and the communities in which we participate, and which we represent.
 
 ## The principles
 
