@@ -33,15 +33,14 @@ This code of conduct applies to all spaces and events managed by LoveLicton. Thi
 -   Fun Events
 -   Community Meetings
 -   Conferences (including social events and peripheral activities)
--   Unconferences and sprints
 -   Meetups
 -   Workshops
 -   Presentation materials used in talks or sessions
 -   Mailing lists
--   GitHub
 -   Twitter and Twitter hashtag
 -   Facebook
 -   meetup.com discussion boards
+-   GitHub
 -   Any other forums created by the community and used for communication.
 
 In addition, violations of this code outside these spaces may affect a person’s ability to participate within them.
@@ -60,4 +59,4 @@ All reports will be kept confidential. In some cases a public statement might be
 
 ## Thanks
 
-This code of conduct is largely based on the  [PuPPy groups Code of Conduct](https://www.pspython.com/pages/code-of-conduct/), which is based largely off [Write The Docs Code of Conduct](http://www.writethedocs.org/code-of-conduct/), which in turn is based on the  [Django Project Code of Conduct](https://www.djangoproject.com/conduct/) and the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others.
+This code of conduct is largely based on the [PuPPy groups Code of Conduct](https://www.pspython.com/pages/code-of-conduct/), which is based largely off [Write The Docs Code of Conduct](http://www.writethedocs.org/code-of-conduct/), which in turn is based on the  [Django Project Code of Conduct](https://www.djangoproject.com/conduct/) and the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others.
