@@ -15,6 +15,9 @@ Come join us at Mineral Springs Park on Saturday, December 15th from 1PM to 4PM 
 ### Community Engagement Events:
 *   Sunday, December 2nd, @ 10AM-2PM, [Help Mulch for Oak Tree Village Art Installation](https://www.facebook.com/events/197108631232393/), Oak Tree Village, 10002 Aurora Ave N <br>
 Mulch has been donated to cover the bulbs we planted at the Oak Tree Village pedestrian overpass. Need some hands to help spread. BYOR (bring your own rake).
+*   Saturday, December 5th @ 7PM, SPD North Precinct Advisory Council, Cascadia Elementary School’s library 1700 N 90th St
+<br>
+At the December meeting, there will be the usual 5 minute reports and the Captain's report, but instead of a guest speaker we will have a social and poster session where attendees can list neighborhood public safety concerns and successes. Please consider bringing a holiday snack to share! Coffee will be provided.
 *   Saturday, December 8th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf), Licton Springs Park <br>
 Join FRIENDS OF LICTON SPRINGS for the last work party of 2018. We have over 100 new plants to place in the ground. Come join us! 
 *  Thursday, December 13th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/AuroraLicton), Epic Life Church 10510 Stone Ave N <br>
