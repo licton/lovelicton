@@ -12,6 +12,8 @@ Come celebrate the holiday season with friends and neighbors at our upcoming eve
 * Saturday, December 15th, @ 1PM-4PM, [Card Making & Holiday Drive](https://www.facebook.com/events/290985698194133/), Mineral Springs Park, 1500 N 105th St <br>
 Come join us at Mineral Springs Park on Saturday, December 15th from 1PM to 4PM for a FREE holiday event including music, holiday card-making activities, festive games, hot beverages and snacks. Food and clothing items will be collected for local non-profits. All are welcome!
 
+[![Tis The Season Event Poster](/images/events/2018/december/tis_the_season.jpg)](/images/events/2018/december/tis_the_season.jpg)
+
 ### Community Engagement Events:
 *   Sunday, December 2nd, @ 10AM-2PM, [Help Mulch for Oak Tree Village Art Installation](https://www.facebook.com/events/197108631232393/), Oak Tree Village, 10002 Aurora Ave N <br>
 Mulch has been donated to cover the bulbs we planted at the Oak Tree Village pedestrian overpass. Need some hands to help spread. BYOR (bring your own rake).
