@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Outdoors, Parks, 
 slug: december-events-2018
-og_image: images/park/fall.jpg
+og_image: images/park/winter.jpg
 
 Come celebrate the holiday season with friends and neighbors at our upcoming events in Mineral Springs Park & Licton Springs Park! 
 
