@@ -16,7 +16,7 @@ Thank you to everyone that came out Saturday and helped make Licton Spring's hol
 
 *Neighbors and friends gather at Mineral Springs park to enjoy hot cocoa, Jones Soda, and snacks while working on crafts and enjoying local musicians*
 
-[![Sugar Elves](images/events/2018/december/sugar_elves.jpg)](images/events/2018/december/sugar_elves.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-WD8N4TO0go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Seattle Sugarplum Elves put on a great performance, drawing in the crowd.*
 
