@@ -57,4 +57,4 @@ Thank you to everyone that came out Saturday and helped make Licton Spring's hol
 
 *Finally, we ended the night with a beautifully lit Licton Springs Park.*
 
-Hope you a have a great holiday season!
+Hope you have a great holiday season!
