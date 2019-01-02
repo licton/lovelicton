@@ -17,6 +17,9 @@ Join us to celebrate Martin Luther King Jr. Day of Service by getting outside! V
 *   Sunday, January 6th, @ 4:30-6PM, [Strathmore Paper Demo](https://www.facebook.com/events/512968175890002/), Seattle Artist League, 10219 Aurora Ave N. <br>
 Jamee Linton-Kelly, Artist Educator for Strathmore Artist Papers™, will present “The Essentials of Paper”, a 90-minute hands-on presentation on Strathmore Drawing and Watercolor Papers. The presentation will focus on how understanding a paper’s fiber, weight, texture, surface, grade and permanency affect an artist’s choice and usage of fine art paper. Attendees participate in hands-on exercises, using a selection of papers and drawing materials. The goal of the presentation is to provide information to help artists select the right papers for their medium and techniques.
  <br>
+ *   Monday, January 14, @ 6-8:30PM, [Continuous Integration, Delivery, and Deployment: Automation for Fun and Profit](https://www.meetup.com/North-Seattle-Tech-Talks/events/254970025/), North Seattle College, 9600 College Way North, Room CC1161. <br>
+ We'll be talking about the basics in automation for software development and deployment, with a focus on web services and applications, related version control and cloud computing technologies.
+ <br>
  
 ### Community Engagement Events:
 *   Wednesday, January 2nd, @ 7PM-8:30PM, [SPD North Precinct Advisory Council](http://seattlenpac.blogspot.com/), Cascadia Elementary School’s library, 1700 N 90th St.<br> 
