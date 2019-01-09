@@ -6,7 +6,7 @@ Tags: General, Improvements, Retail
 slug: ht-market-remodel-2019
 og_image: images/oaktree/ht/remodel.jpg
 
-Following the remodel that occurred at the next door cinema a few years back, HT Market is now also being remodeled.
+Following the remodel that occurred at the next door Oak Tree Cinema a few years back, HT Market is now also being remodeled.
 Once the remodel is complete, around 1/4 of the market will be dedicated to Real Plaza Latina, which will provide Latin groceries, baked goods, and a deli.
 
 [![Changes Coming](/images/oaktree/ht/details.jpg)](/images/oaktree/ht/details.jpg)
