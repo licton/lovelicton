@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/</loc>
-<lastmod>2019-01-09T16:53:40-00:00</lastmod>
+<lastmod>2019-01-14T05:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/archives.html</loc>
-<lastmod>2019-01-09T16:53:40-00:00</lastmod>
+<lastmod>2019-01-14T05:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tags.html</loc>
-<lastmod>2019-01-09T16:53:40-00:00</lastmod>
+<lastmod>2019-01-14T05:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/categories.html</loc>
-<lastmod>2019-01-09T16:53:40-00:00</lastmod>
+<lastmod>2019-01-14T05:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -83,6 +83,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://lovelicton.com/pages/search.html</loc>
 <lastmod>2018-11-23T17:18:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/next-for-nesbit.html</loc>
+<lastmod>2019-01-13T22:00:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -578,6 +585,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://lovelicton.com/category/meetings.html</loc>
+<lastmod>2019-01-13T22:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://lovelicton.com/category/neighborhood.html</loc>
 <lastmod>2018-07-24T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
@@ -649,14 +663,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/tag/general.html</loc>
-<lastmod>2019-01-08T22:00:00-07:53</lastmod>
+<lastmod>2019-01-13T22:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tag/improvements.html</loc>
-<lastmod>2019-01-08T22:00:00-07:53</lastmod>
+<lastmod>2019-01-13T22:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/streets.html</loc>
+<lastmod>2019-01-13T22:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/safety.html</loc>
+<lastmod>2019-01-13T22:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/development.html</loc>
+<lastmod>2019-01-13T22:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -887,13 +922,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/tag/aurora.html</loc>
-<lastmod>2018-09-30T23:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/tag/safety.html</loc>
 <lastmod>2018-09-30T23:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -1132,7 +1160,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/author/timothycrosley.html</loc>
-<lastmod>2019-01-08T22:00:00-07:53</lastmod>
+<lastmod>2019-01-13T22:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
