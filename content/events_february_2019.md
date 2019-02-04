@@ -3,7 +3,7 @@ Date: 2019-02-03 19:00
 Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
-slug: february-events-2018
+slug: february-events-2019
 og_image: images/holidays/2018/aurora_3.jpg
 
 ### LoveLicton Sponsored Events:
