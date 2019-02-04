@@ -25,10 +25,10 @@ Questions and informal networking with law enforcement and community members fol
 *   Saturday, February 9th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),<br /> Licton Springs Park
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 *   Saturday, February 9th @ 11AM, 8547 Midvale Ave N, [On Site Design Review](/images/events/2019/8547.pdf)<br />
-Northwest   Builders   Finance   and   JW   Architects   are   collaborating   to   design   the   redevelopment of 8547 Midvale Ave N. To give feedback attend this drop-in session or take the [8547 online survey](www.jwaseattle.com/8547-english) before February 15.
+Northwest   Builders   Finance   and   JW   Architects   are   collaborating   to   design   the   redevelopment of 8547 Midvale Ave N. To give feedback attend this drop-in session or take the [8547 online survey](https://www.jwaseattle.com/8547-english) before February 15.
 *   Saturday, February 9th @ 11AM, 8551 Midvale Ave N, [On Site Design Review](/images/events/2019/8551.pdf)<br />
 Northwest   Builders   Finance   and   JW   Architects   are   collaborating   to   design   the   redevelopment of 8551 Midvale Ave N.
-To give feedback attend this drop-in session or take the [8551 online survey](www.jwaseattle.com/8551-english) before February 15.
+To give feedback attend this drop-in session or take the [8551 online survey](https://www.jwaseattle.com/8551-english) before February 15.
 *   Thursday, February 14th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/AuroraLicton), Epic Life Church 10510 Stone Ave N<br />
 ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe, visually vibrant, economically sound, livable, and welcoming urban village using sustainable-growth principles.
 *   Wednesday, February 20th @ 6:30PM, [Licton Springs Community Council Monthly Meeting](https://lictonsprings.org/), Meridian Center for Health<br />
