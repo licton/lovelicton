@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/</loc>
-<lastmod>2019-01-29T16:04:47-00:00</lastmod>
+<lastmod>2019-02-04T02:41:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/archives.html</loc>
-<lastmod>2019-01-29T16:04:47-00:00</lastmod>
+<lastmod>2019-02-04T02:41:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tags.html</loc>
-<lastmod>2019-01-29T16:04:47-00:00</lastmod>
+<lastmod>2019-02-04T02:41:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/categories.html</loc>
-<lastmod>2019-01-29T16:04:47-00:00</lastmod>
+<lastmod>2019-02-04T02:41:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -83,6 +83,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://lovelicton.com/pages/search.html</loc>
 <lastmod>2018-11-23T17:18:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/february-events-2018.html</loc>
+<lastmod>2019-02-03T19:00:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -558,7 +565,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/category/events.html</loc>
-<lastmod>2019-01-01T16:00:00-07:53</lastmod>
+<lastmod>2019-02-03T19:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -677,27 +684,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/tag/general.html</loc>
-<lastmod>2019-01-29T08:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/tag/community-involvement.html</loc>
-<lastmod>2019-01-29T08:00:00-07:53</lastmod>
+<lastmod>2019-02-03T19:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tag/community-meeting.html</loc>
-<lastmod>2019-01-29T08:00:00-07:53</lastmod>
+<lastmod>2019-02-03T19:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/event.html</loc>
+<lastmod>2019-02-03T19:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tag/parks.html</loc>
+<lastmod>2019-02-03T19:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/community-involvement.html</loc>
 <lastmod>2019-01-29T08:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -748,13 +762,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://lovelicton.com/tag/retail.html</loc>
 <lastmod>2019-01-08T22:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/tag/event.html</loc>
-<lastmod>2019-01-01T16:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1167,7 +1174,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/author/amandacrosley.html</loc>
-<lastmod>2019-01-29T08:00:00-07:53</lastmod>
+<lastmod>2019-02-03T19:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
