@@ -25,7 +25,6 @@ Every day, roughly 39 thousand cars - or almost as many as travel along Aurora, 
 The intersection connects 5 schools, one of which - Bishop Blanchet - is placed directly at the intersection. This puts kids at great danger of witnessing or being involved in a vehicle pedestrian accident.
 
 [![No Alternative Route](/images/nsf/wallingford_and_85th/walk.jpg)](/images/nsf/wallingford_and_85th/walk.jpg)
-[![No Alternative Route](/images/nsf/wallingford_and_85th/ashwork_walk.jpg)](/images/nsf/wallingford_and_85th/ashwork_walk.jpg)
 
 And while, there has been talk about an improved Ashworth connection, which could be agood alternative for bikers, it is simply too inconvient for pedestrians. The Wallingford route, has few additional intersections once N 85TH is crossed, leads immediately to the center of North Green Lake business district, and is simply a much shorter and simpler walk for most destinations. Few, if any, of the residents in the east half of Licton Springs would be willing to increase their walking distrance to Green Lake by so much. Not to mention the schools in question abut Wallingford Ave N. Making it the most likely route for students to use.
 
