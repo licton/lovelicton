@@ -41,8 +41,8 @@ In 2017 alone, there were 4 pedestrian accidents along this route, including one
 
 [![No Alternative Route](/images/nsf/wallingford_and_85th/walk.jpg)](/images/nsf/wallingford_and_85th/walk.jpg)
 
-And while, there is another proposal for improvements on [Ashworth Ave. N](https://nsf.consider.it/2019-25?results=true), that I also believe is worth supporting,
-these improvements are meant primarily for bikers. The Wallingford route will remain the best route for many pedestrians: after N 85TH, Wallingford Ave N. has few additional intersections, leads immediately to the centre of North Green Lake business district, and is simply a much shorter and simpler walk for most destinations.
+And while there is another proposal for improvements on [Ashworth Ave. N](https://nsf.consider.it/2019-25?results=true), that I also believe is worth supporting,
+these improvements are meant primarily for bikers. The Wallingford route will remain the best route for many pedestrians. After N 85TH, Wallingford Ave N. has few additional intersections, leads immediately to the centre of the North Green Lake business district, and is simply a much shorter and simpler walk for most destinations.
 Not to mention the schools in question abut Wallingford Ave N. Making it the most likely route for students to use.
 
 (Source: Google Maps)
