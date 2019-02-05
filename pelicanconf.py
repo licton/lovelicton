@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'The Crosleys'
 SITENAME = 'Love Licton'
 SITEURL = 'https://lovelicton.com'
+SITEURL = ''
 
 PATH = 'content'
 
