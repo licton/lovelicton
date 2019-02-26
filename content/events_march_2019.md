@@ -1,4 +1,4 @@
-Title: Narcg Community Happenings
+Title: March Community Happenings
 Date: 2019-03-02 19:00
 Author: amandacrosley
 Category: Events
@@ -12,7 +12,7 @@ og_image: images/holidays/2018/aurora_3.jpg
 Be part of a community effort to restore a forgotten neighborhood greenspace! We will mulch in areas that volunteers have already removed blackberries and continue to reclaim space and free trees from aggressive weeds. 
 
 ### Community Engagement Events:
-*   Tuesday, March 5th, @ 6PM-7PM, [February Mineral Springs Park Community Meeting](https://www.facebook.com/events/2328865027388792/), Meridian Center for Health<br />
+*   Tuesday, March 5th, @ 6PM-7PM, [March Mineral Springs Park Community Meeting](https://www.facebook.com/events/2328865027388792/), Meridian Center for Health<br />
 Discuss Mineral Springs Park events, work parties, and community engagement.
 *   Wednesday, March 6th, @ 7PM-8:30PM, [SPD North Precinct Advisory Council](http://seattlenpac.blogspot.com/), Cascadia Elementary School’s library, 1700 N 90th St.<br />
 Questions and informal networking with law enforcement and community members follows the agenda for about 15 minutes. NPAC meetings are open to the public and people concerned about public safety are encouraged to attend.
