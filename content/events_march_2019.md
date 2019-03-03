@@ -31,7 +31,7 @@ Discuss Mineral Springs Park events, work parties, and community engagement.
 Questions and informal networking with law enforcement and community members follows the agenda for about 15 minutes. NPAC meetings are open to the public and people concerned about public safety are encouraged to attend.
 *   Saturday, March 9th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),<br /> Licton Springs Park
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
-*   Thursday, March 14th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/AuroraLicton), Epic Life Church 10510 Stone Ave N<br />
+*   Thursday, March 14th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/events/2165042220255553/), Epic Life Church 10510 Stone Ave N<br />
 ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe, visually vibrant, economically sound, livable, and welcoming urban village using sustainable-growth principles.
 *   Wednesday, March 20th @ 6:30PM, [Licton Springs Community Council Monthly Meeting](https://lictonsprings.org/), Meridian Center for Health<br />
 Licton Springs Community Council Meetings are held the third Wednesday of the month at 6:30pm at Meridian Center for Health (10521 Meridian Ave N, Seattle, WA 98133).
