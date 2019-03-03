@@ -16,10 +16,10 @@ Be part of a community effort to restore a forgotten neighborhood greenspace! We
 
 ### Social Events:
 
-*    Sunday, March 3rd, @ 2PM-4PM, [Fastelavn: A Danish Carnival in Seattle](https://www.facebook.com/events/299419464100244/), Northwest Danish Association (**$10 entry free for non-members**)<br />
+*    Sunday, March 3rd, @ 2PM-4PM, [Fastelavn: A Danish Carnival in Seattle](https://www.facebook.com/events/299419464100244/), Northwest Danish Association, 1833 N 105th St (**$10 entry free for non-members**)<br />
 Fastelavn is a Danish carnival for kids! Come celebrate this Danish tradition with us in Seattle. Costumes are encouraged!
-*    Saturday, March 9, @ 12PM-4PM, [Greater Seattle Linux User Group](https://gslug.org/2019/02/23/general-meeting-on-march-9.html), Meet with other Linux users in the area.
-*    Monday, March 11, @ 6PM-8PM, [North Seattle Tech Talks: Surviving Technical Interviews](https://www.meetup.com/North-Seattle-Tech-Talks/events/258472973/)<br />
+*    Saturday, March 9, @ 12PM-4PM, [Greater Seattle Linux User Group](https://gslug.org/2019/02/23/general-meeting-on-march-9.html),North Seattle College, Education Building, Room 1840A<br /> Meet with other Linux users in the area.
+*    Monday, March 11, @ 6PM-8PM, [North Seattle Tech Talks: Surviving Technical Interviews](https://www.meetup.com/North-Seattle-Tech-Talks/events/258472973/), North Seattle College, 9600 College Way North, Room CC1161<br />
 We'll be talking about how to survive – and thrive – in the software development interview process, including tips and tricks for answering both behavioral and technical interview questions.
 *    Friday, March 22, @ 7PM-8:3PM [1st Annual Continuing Education Writers Salon](https://www.facebook.com/events/423875805023784/)<br />
 1st Annual CE Writers Salon where the Juror Award Winners from our CE Writers Contest will have the opportunity to read their work. All are welcome to this event. Drinks and snacks will be served.
@@ -29,7 +29,8 @@ We'll be talking about how to survive – and thrive – in the software develop
 Discuss Mineral Springs Park events, work parties, and community engagement.
 *   Wednesday, March 6th, @ 7PM-8:30PM, [SPD North Precinct Advisory Council](http://seattlenpac.blogspot.com/), Cascadia Elementary School’s library, 1700 N 90th St.<br />
 Questions and informal networking with law enforcement and community members follows the agenda for about 15 minutes. NPAC meetings are open to the public and people concerned about public safety are encouraged to attend.
-*   Saturday, March 9th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),<br /> Licton Springs Park
+*   Saturday, March 9th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),<br />
+Licton Springs Park
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 *   Thursday, March 14th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/events/2165042220255553/), Epic Life Church 10510 Stone Ave N<br />
 ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe, visually vibrant, economically sound, livable, and welcoming urban village using sustainable-growth principles.
