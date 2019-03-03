@@ -11,6 +11,15 @@ og_image: images/holidays/2018/aurora_3.jpg
 
 Be part of a community effort to restore a forgotten neighborhood greenspace! We will mulch in areas that volunteers have already removed blackberries and continue to reclaim space and free trees from aggressive weeds. 
 
+### Social Events:
+
+*    Sunday, March 3rd, @ 2PM-4PM, [Fastelavn: A Danish Carnival in Seattle](https://www.facebook.com/events/299419464100244/), Northwest Danish Association (**$10 entry free for non-members**)<br />
+Fastelavn is a Danish carnival for kids! Come celebrate this Danish tradition with us in Seattle. Costumes are encouraged!
+*    Monday, March 11, @ 6PM-8PM, [North Seattle Tech Talks: Surviving Technical Interviews](https://www.meetup.com/North-Seattle-Tech-Talks/events/258472973/)<br />
+We'll be talking about how to survive – and thrive – in the software development interview process, including tips and tricks for answering both behavioral and technical interview questions.
+*    Friday, March 22, @ 7PM-8:3PM [1st Annual Continuing Education Writers Salon](https://www.facebook.com/events/423875805023784/)<br />
+1st Annual CE Writers Salon where the Juror Award Winners from our CE Writers Contest will have the opportunity to read their work. All are welcome to this event. Drinks and snacks will be served. 
+
 ### Community Engagement Events:
 *   Tuesday, March 5th, @ 6PM-7PM, [March Mineral Springs Park Community Meeting](https://www.facebook.com/events/2328865027388792/), Meridian Center for Health<br />
 Discuss Mineral Springs Park events, work parties, and community engagement.
