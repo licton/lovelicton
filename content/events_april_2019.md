@@ -7,7 +7,9 @@ slug: april-events-2019
 og_image: images/aurora/daffodils.jpg
 
 ### LoveLicton Sponsored Events:
-* Monday, April 29th, @ 6PM-8:30PM, [Open Source Hackathon](https://www.facebook.com/events/1701530073325722/), North Seattle College CC1161
+* Monday, April 29th, @ 6PM-8:30PM, [Open Source Hackathon](https://www.facebook.com/events/1701530073325722/), North Seattle College CC1161<br />
+[![Open Source Hackathon!](/images/events/2019/april/hackathon.jpg)](/images/events/2019/april/hackathon.jpg)
+
 Open Source Hackathon meetups provide an opportunity to work with others on Open Source Projects. There will be a variety of projects to work on, including some that do not require programming knowledge at all. All contributions, from code to graphic design and documentation are welcome. If you've always wanted to get involved in Open Source or work on projects with other developers in the community, this is a great way to start!
 
 ### Social Events:
@@ -21,8 +23,7 @@ Enjoy a selection of chamber music works performed by select members of the Seat
 Discuss Mineral Springs Park events, work parties, and community engagement.
 *   Wednesday, April 3rd, @ 7PM-8:30PM, [SPD North Precinct Advisory Council](http://seattlenpac.blogspot.com/), Cascadia Elementary School’s library, 1700 N 90th St.<br />
 Questions and informal networking with law enforcement and community members follows the agenda for about 15 minutes. NPAC meetings are open to the public and people concerned about public safety are encouraged to attend.
-*   Monday, April 8th @ 7PM, [Neighbors of Nesbit: SNG Community Meeting](https://www.facebook.com/events/1011521999058585/),<br />
-Epic Life Church
+*   Monday, April 8th @ 7PM, [Neighbors of Nesbit: SNG Community Meeting](https://www.facebook.com/events/1011521999058585/), Epic Life Church<br />
 Interested in public safety and community building in your neighborhood? Join SNG and neighbors in planning BBQ's, block parties, clean-ups and more! Refreshments provided, children are welcome! To learn more, contact Jordan Haselnus, jordan@sngi.org
 *   Thursday, April 11th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/AuroraLicton/), Epic Life Church 10510 Stone Ave N<br />
 ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe, visually vibrant, economically sound, livable, and welcoming urban village using sustainable-growth principles.
