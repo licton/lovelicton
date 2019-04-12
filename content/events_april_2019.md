@@ -30,8 +30,8 @@ ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe
 *   Saturday, April 13th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),<br />
 Licton Springs Park
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
-*   Wednesday, April 17th @ 6:30PM, [Licton Springs Community Council Monthly Meeting](https://lictonsprings.org/), Location TBD <br />
-Licton Springs Community Council Meetings are open to the public and represent the interests of the residents and the owners of commercial and professional businesses in the Licton Springs Neighborhood of the City of Seattle, Washington, to improve community welfare and happiness, and to promote a quality of life consonant with an urban, residential community.
+*   Wednesday, April 17th @ 6:00PM-7:45PM, [Licton Springs Community Council Monthly Meeting](https://www.facebook.com/events/2036858859769746/), Northgate Community Center 10510 5th Ave NE<br />
+Licton Springs Community Council Meetings are open to the public and represent the interests of the residents and the owners of commercial and professional businesses in the Licton Springs Neighborhood of the City of Seattle, Washington, to improve community welfare and happiness, and to promote a quality of life consonant with an urban, residential community
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
 
