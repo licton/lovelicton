@@ -7,7 +7,7 @@ slug: april-events-2019
 og_image: images/aurora/daffodils.jpg
 
 ### LoveLicton Sponsored Events:
-* Monday, April 29th, @ 6PM-8:30PM, [Open Source Hackathon](https://www.facebook.com/events/1701530073325722/), North Seattle College CC1161<br />
+* Monday, April 29th, @ 6PM-8:30PM, [Open Source Hackathon](https://www.facebook.com/events/1701530073325722/), North Seattle College CC1254B<br />
 [![Open Source Hackathon!](/images/events/2019/april/hackathon.jpg)](/images/events/2019/april/hackathon.jpg)
 
 Open Source Hackathon meetups provide an opportunity to work with others on Open Source Projects. There will be a variety of projects to work on, including some that do not require programming knowledge at all. All contributions, from code to graphic design and documentation are welcome. If you've always wanted to get involved in Open Source or work on projects with other developers in the community, this is a great way to start!
@@ -32,6 +32,8 @@ Licton Springs Park
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 *   Wednesday, April 17th @ 6:00PM-7:45PM, [Licton Springs Community Council Monthly Meeting](https://www.facebook.com/events/2036858859769746/), Northgate Community Center 10510 5th Ave NE<br />
 Licton Springs Community Council Meetings are open to the public and represent the interests of the residents and the owners of commercial and professional businesses in the Licton Springs Neighborhood of the City of Seattle, Washington, to improve community welfare and happiness, and to promote a quality of life consonant with an urban, residential community
+*   Saturday, April 27th @ 12:00PM-1:00PM, [Dedication “Aurora Bright Dawn”](https://www.facebook.com/events/656037301496613/), Oak Tree Village<br />
+Join ALUV and artist Vicki Scuri for the dedication of the art installation on the N 102nd pedestrian bridge. Through SDOT’s Neighborhood Street Fund Grant program, ALUV members were able secure funds and select an artist to bring color to Aurora Ave.
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
 
