@@ -7,8 +7,7 @@ slug: april-events-2019
 og_image: images/aurora/daffodils.jpg
 
 ### LoveLicton Sponsored Events:
-* Monday, April 29th, @ 6PM-8:30PM, [Open Source Hackathon](https://www.facebook.com/events/1701530073325722/), North Seattle College CC1161<br />
-[![Open Source Hackathon!](/images/events/2019/april/hackathon.jpg)](/images/events/2019/april/hackathon.jpg)
+* Monday, April 29th, @ 6PM-8:30PM, [Open Source Hackathon](https://www.facebook.com/events/1701530073325722/), North Seattle College CC1254B<br />
 
 Open Source Hackathon meetups provide an opportunity to work with others on Open Source Projects. There will be a variety of projects to work on, including some that do not require programming knowledge at all. All contributions, from code to graphic design and documentation are welcome. If you've always wanted to get involved in Open Source or work on projects with other developers in the community, this is a great way to start!
 
