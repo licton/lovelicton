@@ -6,9 +6,9 @@ Tags: Art, Event, Aurora
 slug: aurora-bright-dawn
 og_image: images/aurorabridgeart.png
 
-Come join [ALUV](http://auroralictonuv.org/) and artist Vicki Scuri for the dedication of [“Aurora Bright Dawn”](https://www.codaworx.com/project/aurora-bright-dawn-seattle-office-of-arts-culture-sdot) on Saturday, April 27th!
+Come join [ALUV](http://auroralictonuv.org/) and artist Vicki Scuri for the [dedication of “Aurora Bright Dawn”](https://www.facebook.com/events/656037301496613/) on Saturday, April 27th!
 
-Aurora Bright Dawn was commissioned by the City of Seattle’s Arts & Culture as part of the Neighborhood Street Fund (NSF) program. The NSF program funds projects requested by the community and is helping achieve ALUV’s goal of building community together- A safe, pedestrian-friendly, inclusive urban village that works for everyone.        
+[Aurora Bright Dawn](https://www.codaworx.com/project/aurora-bright-dawn-seattle-office-of-arts-culture-sdot) was commissioned by the City of Seattle’s Arts & Culture as part of the Neighborhood Street Fund (NSF) program. The NSF program funds projects requested by the community and is helping achieve ALUV’s goal of building community together- A safe, pedestrian-friendly, inclusive urban village that works for everyone.        
 
 Where: Oaktree Plaza Pedestrian Crossing Aurora Ave N at N 102nd St. <br>
 When: April 27th 12:00 pm-1:00pm <br>
