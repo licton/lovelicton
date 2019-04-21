@@ -16,4 +16,5 @@ Who: Open to everyone.  <br>
 What you can do: Although completely voluntary and not necessary to attend, Vicki Scuri is asking neighbors who would like to participate to donate 
 [solar LED globes](https://www.amazon.com/dp/B011NVHX9A/ref=psdc_14193171_t4_B07D8N2KP1) that change colors. This donation will help by not only bringing a splash of color and light but also a sense of building community together.  
 
-(/images/aurorabridgeart2.png)](/images/aurorabridgeart2.png)
+[![Aurora Bridge Art](/images/aurorabridgeart2.png)](/images/aurorabridgeart2.png)
+
