@@ -8,8 +8,8 @@ og_image: images/SpringLictonSprings.jpg
 
 ### Social Events:
 
-*    Saturday, May 18th, @ 12:30PM-4:30PM, [Green Lake Food Walk](https://www.facebook.com/events/235615390709346/), East Green Lake, $15
-*    Sunday, May 19th, @ 12PM-2PM, [Licton Springs / North College Park “Buy Nothing” Community Picnic](https://www.facebook.com/events/1263212103839510/), Licton Springs Park 
+*    Sunday, May 19th, @ 12PM-2PM, [Licton Springs / North College Park “Buy Nothing” Community Picnic](https://www.facebook.com/events/1263212103839510/), Licton Springs Park <br>
+Come together for a community picnic/potluck and meet neighbors. 
 
 ### Community Engagement Events:
 *   Saturday, May 4th, @ 10AM-2PM, [Nesbit Community Cleanup](https://www.facebook.com/events/417106812417957/), 88th & Nesbit
