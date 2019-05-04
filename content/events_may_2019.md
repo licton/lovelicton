@@ -24,7 +24,7 @@ SOS is holding a forum for Seattle District Council Position 5  candidates to an
 *   Saturday, May 11th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),<br />
 Licton Springs Park
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
-*   Wednesday, May 16th @ 6:30PM-8PM, [Licton Springs Community Council Monthly Meeting](https://lictonsprings.org/), OakTree Ihop,  10002 Aurora Ave N<br />
+*   Wednesday, May 15th @ 6:30PM-8PM, [Licton Springs Community Council Monthly Meeting](https://lictonsprings.org/), OakTree Ihop,  10002 Aurora Ave N<br />
 Licton Springs Community Council Meetings are open to the public and represent the interests of the residents and the owners of commercial and professional businesses in the Licton Springs Neighborhood of the City of Seattle, Washington, to improve community welfare and happiness, and to promote a quality of life consonant with an urban, residential community
 
 
