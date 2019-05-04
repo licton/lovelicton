@@ -21,8 +21,8 @@ Discuss Mineral Springs Park events, work parties, and community engagement.
 ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe, visually vibrant, economically sound, livable, and welcoming urban village using sustainable-growth principles.
 *   Thursday, May 9th @ 8PM, [District 5 Candidate Forum Seattle City Council](https://www.facebook.com/events/406568233457005/), Haller Lake Community Club <br>
 SOS is holding a forum for Seattle District Council Position 5  candidates to answer questions relating to public safety, homelessness and addiction/mental illness issues facing Seattle as well as other top issues facing the city and District 5.
-*   Saturday, May 11th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),<br />
-Licton Springs Park
+*   Saturday, May 11th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),
+Licton Springs Park <br>
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 *   Wednesday, May 15th @ 6:30PM-8PM, [Licton Springs Community Council Monthly Meeting](https://lictonsprings.org/), OakTree Ihop,  10002 Aurora Ave N<br />
 Licton Springs Community Council Meetings are open to the public and represent the interests of the residents and the owners of commercial and professional businesses in the Licton Springs Neighborhood of the City of Seattle, Washington, to improve community welfare and happiness, and to promote a quality of life consonant with an urban, residential community
