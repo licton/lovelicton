@@ -12,14 +12,14 @@ og_image: images/SpringLictonSprings.jpg
 Come together for a community picnic/potluck and meet neighbors. 
 
 ### Community Engagement Events:
-*   Saturday, May 4th, @ 10AM-2PM, [Nesbit Community Cleanup](https://www.facebook.com/events/417106812417957/), 88th & Nesbit
+*   Saturday, May 4th, @ 10AM-2PM, [Nesbit Community Cleanup](https://www.facebook.com/events/417106812417957/), 88th & Nesbit <br>
 This Neighbor Day, come out with friends and family to show a little love to Nesbit! Pick up litter, remove graffiti, pull weeds, paint, and more! Food, music, and fun provided- wear clothes you don't mind getting dirty!
 [![Nesbit Community Cleanup](/images/2019NeighborDay.JPG)](/images/2019NeighborDay.JPG)
-*   Tuesday, May 7th, @ 6PM-7PM, [Mineral Springs Park Community Meeting](https://www.facebook.com/events/2487184864633354/), Mineral Springs Park
+*   Tuesday, May 7th, @ 6PM-7PM, [Mineral Springs Park Community Meeting](https://www.facebook.com/events/2487184864633354/), Mineral Springs Park <br>
 Discuss Mineral Springs Park events, work parties, and community engagement.
 *   Thursday, May 9th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/events/592632211257652/), Epic Life Church 10510 Stone Ave N<br />
 ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe, visually vibrant, economically sound, livable, and welcoming urban village using sustainable-growth principles.
-*   Thursday, May 9th @ 8PM, [District 5 Candidate Forum Seattle City Council](https://www.facebook.com/events/406568233457005/), Haller Lake Community Club
+*   Thursday, May 9th @ 8PM, [District 5 Candidate Forum Seattle City Council](https://www.facebook.com/events/406568233457005/), Haller Lake Community Club <br>
 SOS is holding a forum for Seattle District Council Position 5  candidates to answer questions relating to public safety, homelessness and addiction/mental illness issues facing Seattle as well as other top issues facing the city and District 5.
 *   Saturday, May 11th @ 10AM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf),<br />
 Licton Springs Park
