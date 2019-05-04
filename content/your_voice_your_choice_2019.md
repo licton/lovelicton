@@ -8,7 +8,7 @@ og_image: TBD
 
 ## Your Voice, Your Choice Prioritization 
 
-Want to help Seattle prioritize how to spend $2 million of the city’s budget on park and street improvements? Community project prioritization is now open for [Your Voice, Your Choice: Parks & Streets] (http://www.seattle.gov/neighborhoods/programs-and-services/your-voice-your-choice). Anyone can participate in Project Development if they live, work, go to school, receive services, volunteer, or have a connection to the City of Seattle.
+Want to help Seattle prioritize how to spend $2 million of the city’s budget on park and street improvements? Community project prioritization is now open for [Your Voice, Your Choice: Parks & Streets](http://www.seattle.gov/neighborhoods/programs-and-services/your-voice-your-choice). Anyone can participate in Project Development if they live, work, go to school, receive services, volunteer, or have a connection to the City of Seattle.
 
 If you would like to attend a prioritization meeting in person, there are two upcoming events for District 5. 
 
