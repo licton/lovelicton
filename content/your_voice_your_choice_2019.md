@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Community
 Tags: General, Community Involvement, Community Meeting, Parks, Transportation, Walkability, Voting
 slug: your-voice-your-choice-2019
-og_image: TBD
+og_image: images/street_improvements/97th.jpg
 
 ## Your Voice, Your Choice Prioritization 
 
