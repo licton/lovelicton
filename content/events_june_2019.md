@@ -10,6 +10,8 @@ og_image: images/SpringLictonSprings.jpg
 
 *    Friday, June 7th, @ 5:30PM-7PM, [Robert Eagle Staff 2nd Annual Swing Dance](https://www.facebook.com/groups/1264240646947591/) <br>
 Open to the community, $5 Suggested Donation 
+[![2nd Annual Swing Dance!](/images/Robert_Eagle_Swing_Dance_2019.jpg)](/images/Robert_Eagle_Swing_Dance_2019.jpg)
+
 
 ### Community Engagement Events:
 *   Saturday, May 4th, @ 10AM-2PM, [Nesbit Community Cleanup](https://www.facebook.com/events/417106812417957/), 88th & Nesbit <br>
