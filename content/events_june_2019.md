@@ -26,6 +26,8 @@ Licton Springs Community Council Meetings are open to the public and represent t
 Join your neighbors for a work party at the duck pond (Pilling's Pond) located at the 1700 block of 90th. Come pull a few weeds, move some bamboo, let's continue to love our returning ducks.
 *   Thursday, June 27th @ 6:30PM-8PM, [D5 Seattle City Council Candidate Forum](https://www.facebook.com/events/2450955265187094/),  North Seattle College CC1161 <br>
 Who are your City Council candidates, and what are their ideas?  Candidates running for the District 5 City Council seat will be present at a public forum June 27, 6:30-8 p.m., at North Seattle College, Room CC1161.  You are invited to attend and also to submit a question in advance! If you have a question for the candidates, please enter it at https://www.surveymonkey.com/r/GQWMRPB by June 17. We’ll choose questions from those submitted and give them to the candidates at the forum. This forum is sponsored by the D5 Community Network, Licton Springs Community Council, and ReVisioning Northgate.
+[![D5 Seattle City Council Candidate Forum!](/images/district5_candidate_forum.png)](/images/district5_candidate_forum.png) <br>
+
 *   Saturday, June 29th @ 9AM, [Trees for Seattle: Care for a Neighborhood Greenspace in Licton Springs!](https://www.facebook.com/events/842763996099599/), 85th & Meridian <br>
 Spend your Saturday with friends and neighbors to continue caring for a neighborhood greenspace with lots of potential! Volunteers have already removed lots of aggressive, invasive blackberry that threaten beautiful neighborhood trees - and we will continue to remove harmful weeds and spread mulch to prepare the site to plant new, beautiful native trees. RSVP [here] (https://www.surveymonkey.com/r/lictonspringsjune29)
 
