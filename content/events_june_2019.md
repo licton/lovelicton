@@ -34,4 +34,4 @@ Spend your Saturday with friends and neighbors to continue caring for a neighbor
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
 
 Hope to see you at an upcoming event!
-Did we miss something? Let us know in the comments below or by emailing us at [lovelicton@gmail.com](mailto: lovelicton@gmail.com)
+Did we miss something? Let us know in the comments below or by emailing us at [lovelicton@gmail.com](mailto:lovelicton@gmail.com)
