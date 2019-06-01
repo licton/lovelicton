@@ -29,7 +29,7 @@ Who are your City Council candidates, and what are their ideas?  Candidates runn
 [![D5 Seattle City Council Candidate Forum!](/images/district5_candidate_forum.png)](/images/district5_candidate_forum.png) <br>
 
 *   Saturday, June 29th @ 9AM, [Trees for Seattle: Care for a Neighborhood Greenspace in Licton Springs!](https://www.facebook.com/events/842763996099599/), 85th & Meridian <br>
-Spend your Saturday with friends and neighbors to continue caring for a neighborhood greenspace with lots of potential! Volunteers have already removed lots of aggressive, invasive blackberry that threaten beautiful neighborhood trees - and we will continue to remove harmful weeds and spread mulch to prepare the site to plant new, beautiful native trees. RSVP [here] (https://www.surveymonkey.com/r/lictonspringsjune29)
+Spend your Saturday with friends and neighbors to continue caring for a neighborhood greenspace with lots of potential! Volunteers have already removed lots of aggressive, invasive blackberry that threaten beautiful neighborhood trees - and we will continue to remove harmful weeds and spread mulch to prepare the site to plant new, beautiful native trees. RSVP [here](https://www.surveymonkey.com/r/lictonspringsjune29)
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
 
