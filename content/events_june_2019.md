@@ -9,9 +9,10 @@ og_image: images/SpringLictonSprings.jpg
 ### Social Events:
 
 *    Friday, June 7th, @ 5:30PM-7PM, [Robert Eagle Staff 2nd Annual Swing Dance](https://www.facebook.com/groups/1264240646947591/) <br>
-Open to the community, $5 Suggested Donation 
+Open to the community, $5 Suggested Donation
 [![2nd Annual Swing Dance!](/images/Robert_Eagle_Swing_Dance_2019.jpg)](/images/Robert_Eagle_Swing_Dance_2019.jpg) <br>
-*    Sunday, June 23rd, @ 2PM-6PM, [Celebrate North Seattle](https://www.facebook.com/events/1814972921936969/), Oak Tree Village Parking Lot <br>Join your North Seattle neighbors for a fun-filled afternoon featuring local vendors, live music, carnival games, bounce houses, food trucks and great giveaways! Admission is FREE for the whole family. 
+*    Sunday, June 23rd, @ 2PM-6PM, [Celebrate North Seattle](https://www.facebook.com/events/1814972921936969/), Oak Tree Village Parking Lot <br>Join your North Seattle neighbors for a fun-filled afternoon featuring local vendors, live music, carnival games, bounce houses, food trucks and great giveaways! Admission is FREE for the whole family.
+[![Celebrate North Seattle](/images/events/2019/june/celebrate_north_seattle.jpg)](/images/events/2019/june/celebrate_north_seattle.jpg)
 *    Friday, June 28th, @ 5PM-8PM, [Northgate Community Center 13th Anniversary](https://www.facebook.com/events/403812863753521/), Northgate Community Center <br>
 
 ### Community Engagement Events:
