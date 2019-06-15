@@ -26,7 +26,7 @@ Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 *   Thursday, June 13th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/AuroraLicton), Epic Life Church 10510 Stone Ave N<br />
 ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe, visually vibrant, economically sound, livable, and welcoming urban village using sustainable-growth principles.
 
-*   Wednesday, June 19th @ 6:30PM-8PM, [Licton Springs Community Council Monthly Meeting](https://lictonsprings.org/), Location TBD,  10002 Aurora Ave N<br />
+*   Wednesday, June 19th @ 6:30PM-8PM, [Licton Springs Community Council Monthly Meeting](https://lictonsprings.org/), Licton Springs Park by the Playground, 9536 Ashworth Ave N, Seattle, WA 98103<br />
 Licton Springs Community Council Meetings are open to the public and represent the interests of the residents and the owners of commercial and professional businesses in the Licton Springs Neighborhood of the City of Seattle, Washington, to improve community welfare and happiness, and to promote a quality of life consonant with an urban, residential community
 
 *   Saturday, June 22nd @ 9AM, [Pilling’s Pond Work Party](https://www.facebook.com/events/318327325506066/) <br>
