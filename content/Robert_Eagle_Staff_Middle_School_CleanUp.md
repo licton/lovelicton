@@ -23,3 +23,5 @@ Update: A second, 20 yard, dumpster has been delivered, now until July 31st, to 
 * Monday, July 15 (6pm-8:30pm)
 * Monday, July 22 (6pm-8:30pm)
 * Monday, July 29 (6pm-8:30pm) 
+
+For additional information or any questions, please contact Christel Peterson <christelpeterson@gmail.com> 
