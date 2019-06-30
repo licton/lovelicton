@@ -15,3 +15,11 @@ We recieved the below request for volunteers from the [Friends of Robert Eagle S
 * Friday, June 21 (9am-3:30pm)
 * Monday, June 24 (9am-3:30pm)
 * Wednesday, June 26 (9am-3:30pm)
+
+Update: A second, 20 yard, dumpster has been delivered, now until July 31st, to continue the effort that has begun. Please consider volunteering throughout July, on Mondays, 6pm-8:30pm!
+
+* Monday, July 1 (6pm-8:30pm)
+* Monday, July 8 (6pm-8:30pm)
+* Monday, July 15 (6pm-8:30pm)
+* Monday, July 22 (6pm-8:30pm)
+* Monday, July 29 (6pm-8:30pm) 
