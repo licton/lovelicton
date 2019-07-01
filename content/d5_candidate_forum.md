@@ -13,7 +13,7 @@ The D5 Candidate Forum was sponsored by [Licton Springs Community Council](https
 
 If you didn't get to attend, the video is posted on the [D5 Community Network Youtube Channel](https://www.youtube.com/channel/UCcc1gwW77nNmnJPgaZuflcg):
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WOHFP7onPNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOHFP7onPNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br> 
 For more information about the candidates, check out the [KODX June 15th Analysis of Dist. 5 City Council Race](https://kodxseattle.org/2019/06/15/eat-the-airwaves-podcast-june-15-2019/) starting at the 23 minute mark and [Speak Out Seattle's May 9th Candidate Forum](https://www.youtube.com/watch?v=e5d_Esf9fHQ). 
