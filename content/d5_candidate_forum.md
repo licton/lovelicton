@@ -1,4 +1,4 @@
-Title: Want to Learn More About the District 5 Candidates? 
+Title: Want to Learn More About the District 5 City Council Candidates? 
 Date: 2019-06-30 21:00
 Author: amandacrosley
 Category: Events
