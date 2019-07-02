@@ -1,5 +1,5 @@
 Title: Check out Mineral Springs Park Improvements & Upcoming Events!
-Date: 2019-07-01 10:00
+Date: 2019-07-02 10:00
 Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Outdoors, Parks
@@ -14,5 +14,5 @@ Check out some examples  below!
 
 Don't forget to check out the upcoming [Mineral Springs Park](https://www.facebook.com/MineralSpringsSeattle/) events:
 
-* <b>Tuesday, June 2nd</b>: [Mineral Springs Park Clean-up](https://www.facebook.com/events/665789523940006/) from 5PM-7PM
+* <b>Tuesday, July 2nd</b>: [Mineral Springs Park Clean-up](https://www.facebook.com/events/665789523940006/) from 5PM-7PM
 * <b>Friday, July 19th </b>: [Mineral Springs Park Movie Night and Community Picnic](https://www.facebook.com/events/512601515946599/) from 7PM-10PM
