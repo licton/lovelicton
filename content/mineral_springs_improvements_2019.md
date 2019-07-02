@@ -6,7 +6,7 @@ Tags: General, Community Meeting, Event, Outdoors, Parks
 slug: mineral_springs_park_2019
 og_image: images/MineralSpringsParkDiscGolfSigns.jpg
 
-Thanks to the efforts of [Mineral Springs Disc Golf Club](https://www.facebook.com/groups/250860298866679/), Seattle Parks & Recreation and the local community, Mineral Springs Park's disc golf course just got a facelift with new tee pad signs installed. 
+Thanks to the efforts of [Mineral Springs Disc Golf Club](https://www.facebook.com/groups/250860298866679/), Mineral Springs Park's disc golf course just got a facelift with new tee pad signs installed. 
 Check out some examples  below! 
 
 [![Mineral Springs Park Hole 1](/images/MineralSpringsHole1.JPG)](/images/MineralSpringsHole1.JPG)
