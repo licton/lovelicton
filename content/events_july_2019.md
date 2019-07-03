@@ -11,9 +11,6 @@ og_image: images/celebratenorthseattle.jpg
 *   Monday, July 8th @ 5-8PM, [97th & Woodlawn Ave N Play Street](https://www.facebook.com/events/481053552661775/), 97th-100th & Woodlawn Ave N <br>
 Woodlawn Ave N (between 97th & 100th) is having a play street on Monday July 8th from 5-8 pm. Play Streets are a great way to connect with your neighbors and for kids to have fun! We'll have bikes, nerf, squirt guns and more. Bring a dish to share if you're so inclined.
 
-*   Friday, July 19th @ 7-10PM, [Mineral Springs Park Movie Night and Community Picnic](https://www.facebook.com/events/512601515946599/), Mineral Springs Park <br>
-Please join us for an upcoming community movie night (Secret Life of Pets) at Mineral Springs Park. This is a family friendly event. Free & open to all. Bring your own food, beverages and a comfy chair or blanket to sit on. 
-
 ### Community Engagement Events:
 
 *   Monday, July 1st, 8th, 15th, 22nd, 29th @ 6PM-8:30PM, [Robert Eagle Staff Middle School Grounds Beautification Effort](https://www.facebook.com/groups/FriendsOfRobertEagleStaffMS/),
