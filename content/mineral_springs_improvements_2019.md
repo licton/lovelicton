@@ -16,3 +16,5 @@ Don't forget to check out the upcoming [Mineral Springs Park](https://www.facebo
 
 * <b>Tuesday, July 2nd</b>: [Mineral Springs Park Clean-up](https://www.facebook.com/events/665789523940006/) from 5PM-7PM
 * <b>Friday, August 16th </b>: [Mineral Springs Park Movie Night and Community Picnic](https://www.facebook.com/events/512601515946599/) from 7PM-10PM
+
+[![Mineral Springs Outdoor Movie Night 2019!](/images/MineralSpringsParkMovieNight2019.JPG)](/images/MineralSpringsParkMovieNight2019.JPG) <br>
