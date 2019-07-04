@@ -32,7 +32,7 @@ Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 Taproot Theater <br>
 Hosted by Greenwood Community Council
 
-*   Sunday, July 14th @ 9:30AM, [Love Aurora Clean-Up](https://www.facebook.com/epiclifeseattle/), Epic Life Church <br>
+*   Sunday, July 14th @ 9:30AM, [Love Aurora Clean-Up](https://www.facebook.com/events/2552342088159669), Epic Life Church <br>
 Neighborhood clean-up hosted by North Aurora (NORA) leadership committee and Epic Life Church. Meet at Epic Life/For North Seattle's facilities at 10510 Stone Ave N at 9:30am and head out the door after a brief training.
 Email Kevin for more details @ kevin@47harmonic.com
 
