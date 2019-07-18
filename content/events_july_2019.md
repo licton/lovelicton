@@ -11,6 +11,12 @@ og_image: images/celebratenorthseattle.jpg
 *   Monday, July 8th @ 5-8PM, [97th & Woodlawn Ave N Play Street](https://www.facebook.com/events/481053552661775/), 97th-100th & Woodlawn Ave N <br>
 Woodlawn Ave N (between 97th & 100th) is having a play street on Monday July 8th from 5-8 pm. Play Streets are a great way to connect with your neighbors and for kids to have fun! We'll have bikes, nerf, squirt guns and more. Bring a dish to share if you're so inclined.
 
+*   Saturday, July 20h @ 1-4PM, [North Precinct Police Picnic](https://www.seattlepolicefoundation.org/events/precinct-picnics), 10049 College Way N<br>
+Meet officers from Swat, Mounted Patrol, Canine, Bomb Squad, and more! Enjoy music, food, and entertainment. Learn how to get involved in preventing crime in your community!
+
+[![North Precinct Police Picnic](/images/PolicePicnics2019.JPG)](/images/PolicePicnics2019.JPG)
+
+
 ### Community Engagement Events:
 
 *   Monday, July 1st, 8th, 15th, 22nd, 29th @ 6PM-8:30PM, [Robert Eagle Staff Middle School Grounds Beautification Effort](https://www.facebook.com/groups/FriendsOfRobertEagleStaffMS/),
