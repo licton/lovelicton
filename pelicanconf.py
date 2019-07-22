@@ -60,6 +60,13 @@ AUTHORS_BIO = {
       "image": "images/amandacrosley.jpg",
       "location": "Licton Springs, Seattle, WA",
       "bio": "When I'm not mentoring the next generation of STEM leaders, urban hiking through Seattle or playing arcade/board games, you can find me @ Microsoft driving analytics for Bing Ads search advertising."
+    ),
+    "JaniceLichtenwaldt": {
+      "name": "Janice Lichtenwaldt",
+      "cover": "images/spring/bird.jpg",
+      "image": "images/JaniceLichtenwaldt.jpg",
+      "location": "Licton Springs, Seattle, WA",
+      "bio": "Licton Springs Community Council President"
   },SITE_DESCRIPTION = ('The blog for the beautiful Licton Springs neighborhood in Seattle, WA. '
                     'Keep up to date on all the latest retail openings, neighborhood events, and news related to '
                     'this North Seattle neighborhood.')
