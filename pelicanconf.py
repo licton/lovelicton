@@ -66,7 +66,7 @@ AUTHORS_BIO = {
         "cover": "images/spring/bird.jpg",
         "image": "images/JaniceLichtenwaldt.jpg",
         "location": "Licton Springs, Seattle, WA",
-        "bio": "Licton Springs Community Council President"
+        "bio": "During the day, I am the CEO of I Am Virago where we coach folks to become more engaged and effective leaders. I’m a sucker for anything related to arts & crafts and women’s empowerment. I love music, sci-fi, my husband, and my dog…not necessarily in that order."
     }
 }
 
