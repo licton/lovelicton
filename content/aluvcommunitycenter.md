@@ -3,7 +3,7 @@ Date: 2019-07-21 20:00
 Author: JaniceLichtenwaldt
 Category: Community
 Tags: General, Community, Neighborhood, 
-slug: july-events-2019
+slug: aluv-community-center
 og_image: images/aurorabridge.jpg
 
 The need for a neighborhood community center has received a lot of attention during this election cycle. All of the major candidates running for the District 5 council seat have gone on record in support. The momentum is building, and your voice could help make the community center a reality. 
