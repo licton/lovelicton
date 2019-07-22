@@ -60,7 +60,60 @@ AUTHORS_BIO = {
       "image": "images/amandacrosley.jpg",
       "location": "Licton Springs, Seattle, WA",
       "bio": "When I'm not mentoring the next generation of STEM leaders, urban hiking through Seattle or playing arcade/board games, you can find me @ Microsoft driving analytics for Bing Ads search advertising."
+  },SITE_DESCRIPTION = ('The blog for the beautiful Licton Springs neighborhood in Seattle, WA. '
+                    'Keep up to date on all the latest retail openings, neighborhood events, and news related to '
+                    'this North Seattle neighborhood.')
+SHOW_SITESUBTITLE_IN_HTML = True
+HEADER_COVER = 'images/header.jpg'
+SITE_LOGO = '/images/logo.png'
+CSS_OVERRIDE = ['static/main.css',
+                'static/tipuesearch/tipuesearch.css',
+                'https://use.fontawesome.com/releases/v5.5.0/css/all.css']
+STATIC_PATHS = ['static',
+                'images',
+                'images/spring',
+                'extra/robots.txt',
+                'extra/favicon.ico',
+                'extra/CNAME'
+]
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/CNAME': {'path': 'CNAME'}
+}
+
+COLOR_SCHEME_CSS = 'monokai.css'
+AUTHORS_BIO = {
+  "timothycrosley": {
+    "name": "Timothy Crosley",
+    "cover": "images/spring/trees.jpg",
+    "image": "https://avatars1.githubusercontent.com/u/2090154?s=400&u=4f46538354444ce0a0d4d89cd676f769d7d846d3&v=4",
+    "location": "Licton Springs, Seattle, WA",
+    "bio": "During the day, I work at DomainTools, where I’m helping to develop predictive security solutions on top of truly large data sets. I can’t resist a good craft beer, a new board game, an arcade, or any food that contains peanut butter."
+  },
+  "amandacrosley": {
+      "name": "Amanda Crosley",
+      "cover": "images/spring/bird.jpg",
+      "image": "images/amandacrosley.jpg",
+      "location": "Licton Springs, Seattle, WA",
+      "bio": "When I'm not mentoring the next generation of STEM leaders, urban hiking through Seattle or playing arcade/board games, you can find me @ Microsoft driving analytics for Bing Ads search advertising."
+  },
+  "JaniceLichtenwaldt": {
+      "name": "Janice Lichtenwaldt",
+      "cover": "images/spring/bird.jpg",
+      "image": "images/JaniceLichtenwaldt.jpg",
+      "location": "Licton Springs, Seattle, WA",
+      "bio": "Licton Springs Community Council President"
   }
+}
+SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
+                'right': 'Follow: <a href="https://twitter.com/LoveLicton" style="color: #1da1f3; font-weight: bold;">'
+                         'Twitter</a> '
+                         '<a href="https://www.facebook.com/lovelicton" style="color: #4267b2; font-weight: bold;">'
+                         'Facebook</a> '
+                         '<a href="https://www.instagram.com/lictonsprings/" style="color: black; font-weight: bold;">'
+                         'Instagram</a>'
+                         '<br />'
 }
 SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
                 'right': 'Follow: <a href="https://twitter.com/LoveLicton" style="color: #1da1f3; font-weight: bold;">'
