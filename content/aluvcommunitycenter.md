@@ -10,16 +10,16 @@ The need for a neighborhood community center has received a lot of attention dur
 
 At the recent Celebrate North Seattle event at Oaktree plaza, [ALUV (Aurora-Licton Springs Urban Village)](https://www.facebook.com/AuroraLicton/) asked over 120 people what was most important to them about having a community center. The top 10 answers were:
 
-* 1. Playground
-* 2. ibrary
-* 3. Pool
-* 4. Large gathering space
-* 5. Sport Court
-* 6. Childcare
-* 7. Senior Activities
-* 8. After school programs
-* 9. Fitness classes
-* 10. Meeting Rooms
+1. Playground
+2. ibrary
+3. Pool
+4. Large gathering space
+5. Sport Court
+6. Childcare
+7. Senior Activities
+8. After school programs
+9. Fitness classes
+10. Meeting Rooms
 
 [![Community Center Survey Results ](/images/aluvcommunitycenter.JPG)](/images/aluvcommunitycenter.JPG)
 
