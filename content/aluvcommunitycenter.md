@@ -47,9 +47,9 @@ https://mendezforseattle.com <br>
 
 <b> John Lombard – D5 Candidate <br> </b>
 Info@VoteJohnLombard.com <br>
-Twitter: votejohnlombard <br>
+Twitter: votejohnlombard 
 
-<br> Seattle Parks & Recreation Strategic Plan </b>
-PKS_SPRStrategicPlan@seattle.gov
+<b> Seattle Parks & Recreation Strategic Plan </b><br> 
+PKS_SPRStrategicPlan@seattle.gov <br> 
 
 
