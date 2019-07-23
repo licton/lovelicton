@@ -49,4 +49,7 @@ https://mendezforseattle.com <br>
 Info@VoteJohnLombard.com <br>
 Twitter: votejohnlombard <br>
 
+<br> Seattle Parks & Recreation Strategic Plan </b>
+PKS_SPRStrategicPlan@seattle.gov
+
 
