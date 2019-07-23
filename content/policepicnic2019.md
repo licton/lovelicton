@@ -14,7 +14,7 @@ This past Saturday, the Seattle Police department hosted their annual [Precinct 
 
 [![Police K9](/images/policepicnicdog.JPG)](/images/policepicnicdog.JPG)
 
-[![Police Mounted Patrol](/images/policepicni]chorse.JPG)(/images/policepicnichorse.JPG)
+[![Police Mounted Patrol](/images/policepicnichorse.JPG)(/images/policepicnichorse.JPG)
 
 [![Police Officers](/images/policepicnicofficers.JPG)](/images/policepicnicofficers.JPG)
 
