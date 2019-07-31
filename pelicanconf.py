@@ -23,29 +23,7 @@ AUTHOR_FEED_RSS = 'feeds/{slug}.rss.xml'
 
 THEME = 'attila'
 SITESUBTITLE = 'The Licton Springs Blog'
-SITE_DESCRIPTION = ('The blog for the beautiful Licton Springs neighborhood in Seattle, WA. '
-                    'Keep up to date on all the latest retail openings, neighborhood events, and news related to '
-                    'this North Seattle neighborhood.')
-SHOW_SITESUBTITLE_IN_HTML = True
-HEADER_COVER = 'images/header.jpg'
-SITE_LOGO = '/images/logo.png'
-CSS_OVERRIDE = ['static/main.css',
-                'static/tipuesearch/tipuesearch.css',
-                'https://use.fontawesome.com/releases/v5.5.0/css/all.css']
-STATIC_PATHS = ['static',
-                'images',
-                'images/spring',
-                'extra/robots.txt',
-                'extra/favicon.ico',
-                'extra/CNAME'
-]
-EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/CNAME': {'path': 'CNAME'}
-}
 
-COLOR_SCHEME_CSS = 'monokai.css'
 AUTHORS_BIO = {
     "timothycrosley": {
         "name": "Timothy Crosley",
@@ -93,15 +71,6 @@ EXTRA_PATH_METADATA = {
 }
 
 COLOR_SCHEME_CSS = 'monokai.css'
-SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
-                'right': 'Follow: <a href="https://twitter.com/LoveLicton" style="color: #1da1f3; font-weight: bold;">'
-                         'Twitter</a> '
-                         '<a href="https://www.facebook.com/lovelicton" style="color: #4267b2; font-weight: bold;">'
-                         'Facebook</a> '
-                         '<a href="https://www.instagram.com/lictonsprings/" style="color: black; font-weight: bold;">'
-                         'Instagram</a>'
-                         '<br />'
-}
 SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
                 'right': 'Follow: <a href="https://twitter.com/LoveLicton" style="color: #1da1f3; font-weight: bold;">'
                          'Twitter</a> '
