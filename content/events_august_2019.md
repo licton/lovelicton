@@ -25,10 +25,6 @@ Live bands and DJ's, food trucks, local vendors, an interactive art area and mor
 *   Thursday, August 8th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/events/2371709539602641/), Epic Life Church 10510 Stone Ave N<br />
 ALUV stands for Aurora Licton Urban Village and seeks to build a pedestrian-safe, visually vibrant, economically sound, livable, and welcoming urban village using sustainable-growth principles.
 
-*   Saturday, August 10th @ 10AM, [Friends of Licton Springs Park Clean-Up](https://lictonsprings.org/work_party.pdf),
-Licton Springs Park <br>
-Join FRIENDS OF LICTON SPRINGS for our monthly work party.
-
 Note: There is no Licton Springs Community Council meeting in August. 
 There is also no North Precinct Advisory Council (NPAC) meeting in August. 
 
