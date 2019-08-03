@@ -1,10 +1,10 @@
 Title: August 2019 Community Events
-Date: 2019-08-03 13:00
+Date: 2019-08-03 09:00
 Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
 slug: august-events-2019
-og_image: images/celebratenorthseattle.jpg
+og_image: images/lictonspringsphoto.jpg
 
 ### Social Events:
 
