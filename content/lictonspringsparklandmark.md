@@ -12,6 +12,6 @@ The public is invited to attend the [meeting](http://www.seattle.gov/Documents/D
 Seattle Landmarks Preservation Board <br>
 Seattle Department of Neighborhoods <br>
 PO Box 94649 <br>
-Seattle, WA 98124-4649 
+Seattle, WA 98124-4649 <br>
  
 A copy of the Landmark Nomination is available for public review at the Northgate Branch Library, 10548 Fifth Avenue NE, and the Seattle Department of Neighborhoods office in Seattle City Hall, 600 4th Avenue, 4th Floor (206-684-0228). The nomination is also posted on Seattle Department of Neighborhoods website [here](http://www.seattle.gov/Documents/Departments/Neighborhoods/HistoricPreservation/Landmarks/CurrentNominations/LPBCurrentNom_Licton_Springs.pdf). 
