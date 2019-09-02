@@ -1,5 +1,5 @@
 Title: September 2019 Community Events
-Date: 2019-09-03 09:00
+Date: 2019-09-02 10:00
 Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
