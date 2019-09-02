@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/</loc>
-<lastmod>2019-09-02T16:02:43-00:00</lastmod>
+<lastmod>2019-09-02T16:09:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/archives.html</loc>
-<lastmod>2019-09-02T16:02:43-00:00</lastmod>
+<lastmod>2019-09-02T16:09:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tags.html</loc>
-<lastmod>2019-09-02T16:02:43-00:00</lastmod>
+<lastmod>2019-09-02T16:09:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/categories.html</loc>
-<lastmod>2019-09-02T16:02:43-00:00</lastmod>
+<lastmod>2019-09-02T16:09:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/sept-events-2019.html</loc>
-<lastmod>2019-09-03T09:00:00-07:00</lastmod>
+<lastmod>2019-09-02T10:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -705,7 +705,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/category/events.html</loc>
-<lastmod>2019-09-03T09:00:00-07:53</lastmod>
+<lastmod>2019-09-02T10:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -838,28 +838,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/tag/general.html</loc>
-<lastmod>2019-09-03T09:00:00-07:53</lastmod>
+<lastmod>2019-09-02T10:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tag/community-meeting.html</loc>
-<lastmod>2019-09-03T09:00:00-07:53</lastmod>
+<lastmod>2019-09-02T10:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tag/event.html</loc>
-<lastmod>2019-09-03T09:00:00-07:53</lastmod>
+<lastmod>2019-09-02T10:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tag/parks.html</loc>
-<lastmod>2019-09-03T09:00:00-07:53</lastmod>
+<lastmod>2019-09-02T10:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1349,7 +1349,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/author/amandacrosley.html</loc>
-<lastmod>2019-09-03T09:00:00-07:53</lastmod>
+<lastmod>2019-09-02T10:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
