@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Community
 Tags: General, Community Involvement, Community Meeting, Parks, Transportation, Walkability, Voting
 slug: your-voice-your-choice-voting-2019
-og_image: images/yvyc2019.jpg
+og_image: images/YVYC2019.JPG
 
 ## Vote Now for your favorite Your Voice, Your Choice park and street improvements!
 
