@@ -20,5 +20,5 @@ You can find more information and voting instructions [here](http://www.seattle.
 
 In District 5, check out these Licton Springs Projects:
 
-* [Project 19-223: Meridian Home Zone Speed Bumps](http://www.seattle.gov/Documents/Departments/Neighborhoods/ParticipatoryBudgeting/2019%20YVYC/Project%20Reviews/Approved/5G,%2019-223,Corliss%20Ave.%20N%20and%20Meridian%20Ave.%20N%20btw%20N%2085th%20and%20N.%2092nd%20St_.pdf) proposes an installation of speed bumps to control speed and traffic volume on Corliss Ave N and Meridian Ave N between N 85th and N 92nd St.
-* [Project 19-200: Traffic Calming Improvements on N 107th St & Meridian Ave. N](http://www.seattle.gov/Documents/Departments/Neighborhoods/ParticipatoryBudgeting/2019%20YVYC/Project%20Reviews/Approved/5H,%2019-200,N%20107th%20ST.%20and%20Meridian%20Ave.%20N.pdf) proposes speed bumps to reduce traffic speed on N 107th. 
+* [Project 19-223: Meridian Home Zone Speed Bumps](http://www.seattle.gov/Documents/Departments/Neighborhoods/ParticipatoryBudgeting/2019%20YVYC/Project%20Reviews/Approved/5G_19-223.pdf) proposes an installation of speed bumps to control speed and traffic volume on Corliss Ave N and Meridian Ave N between N 85th and N 92nd St.
+* [Project 19-200: Traffic Calming Improvements on N 107th St & Meridian Ave. N](http://www.seattle.gov/Documents/Departments/Neighborhoods/ParticipatoryBudgeting/2019%20YVYC/Project%20Reviews/Approved/5H_19-200.pdf) proposes speed bumps to reduce traffic speed on N 107th. 
