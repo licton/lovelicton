@@ -31,7 +31,7 @@ Joining ALUV this month is CM Juarez to discuss current neighborhood initiatives
 *   Saturday, September 14th @ 10AM-2PM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf), Licton Springs Park <br />
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
-*   Monday, September 14th @ 6:30PM-8PM, [NORA Business Meet-up & Networking Night](https://www.facebook.com/events/639197546489053/), Lantern Brewing <br />
+*   Monday, September 23rd @ 6:30PM-8PM, [NORA Business Meet-up & Networking Night](https://www.facebook.com/events/639197546489053/), Lantern Brewing <br />
 Come meet and get to know your NORA (NOrth AuroRA) neighborhood business owners, managers, and leaders! We are discovering, the more we all know each other the more we can work together for the good of this community. Introduce yourself and your business to others who, like you, work hard and have invested in the NORA arena.
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
