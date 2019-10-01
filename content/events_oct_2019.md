@@ -18,6 +18,8 @@ Licton Springs Park <br>
 *   Tuesday, October 1st @ 5-7PM, [Northgate Redevelopment Open House](https://www.facebook.com/events/2381737485403233/), Northgate Mall Food Court  <br />
 Join NHL Seattle and Northgate Mall on October 1st from 5pm - 7pm PT to learn about the plans for NHL Seattle's future headquarters. Attendees will have the chance to look at renderings, ask questions and speak to NHL Seattle representatives. Attendees will also be able to win prizes from Northgate retailers and NHL Seattle! Light refreshments will be available for those in attendance. 
 
+[![Northgate Community Open House](/images/northgateopenhouse.jpg)](/images/northgateopenhouse.jpg)
+
 *   Wednesday, October 2nd @ 1-3PM, Coffee with a Cop, Starbucks (8301 Aurora Ave N)  <br />
 [![Coffee with a Cop](/images/coffeewithacop.JPG)](/images/coffeewithacop.JPG)
 
