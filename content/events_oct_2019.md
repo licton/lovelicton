@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
 slug: oct-events-2019
-og_image: images/lictonspringsphoto.jpg
+og_image: images/lictonspringspark.jpg
 
 ### Social Events:
 
@@ -19,6 +19,7 @@ Licton Springs Park <br>
 Join NHL Seattle and Northgate Mall on October 1st from 5pm - 7pm PT to learn about the plans for NHL Seattle's future headquarters. Attendees will have the chance to look at renderings, ask questions and speak to NHL Seattle representatives. Attendees will also be able to win prizes from Northgate retailers and NHL Seattle! Light refreshments will be available for those in attendance. 
 
 *   Wednesday, October 2nd @ 1-3PM, Coffee with a Cop, Starbucks (8301 Aurora Ave N)  <br />
+[![Coffee with a Cop](/images/coffeewithacop.JPG)](/images/coffeewithacop.JPG)
 
 *   Wednesday, October 2nd @ 7-8:30PM, [SPD North Precinct Advisory Council](https://drive.google.com/drive/folders/1CVtS3RTpJT-W-yzizfUxoWs1Tco_JS7h), Northaven Senior Housing, Harbor Room  <br />
 Informal networking with law enforcement and community members follows the Captain’s precinct update as time permits.
