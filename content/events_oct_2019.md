@@ -8,6 +8,9 @@ og_image: images/lictonspringspark.jpg
 
 ### Social Events:
 
+*   Saturday, October 5th, [Harvest Potluck @ Licton Springs P-Patch](https://www.facebook.com/events/411744709500959), 1-3PM, Licton Springs P-Patch <br>
+The community is invited to join the gardeners at the p-patch for our annual potluck.  Bring a dish to share.  Rain or shine!
+
 *   Monday, October 21st, [North Seattle Tech Talks: Intro to Machine Learning](https://www.meetup.com/North-Seattle-Tech-Talks/events/263943738/), 6-8PM, North Seattle College CC1161 <br>
 
 *   Thursday, October 31st, Licton Springs Halloween Walk, 4:30-6PM, 
