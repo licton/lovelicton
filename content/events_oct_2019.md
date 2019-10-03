@@ -9,7 +9,7 @@ og_image: images/lictonspringspark.jpg
 ### Social Events:
 
 *   Saturday, October 5th, [Harvest Potluck @ Licton Springs P-Patch](https://www.facebook.com/events/411744709500959), 1-3PM, Licton Springs P-Patch <br>
-The community is invited to join the gardeners at the p-patch for our annual potluck.  Bring a dish to share.  Rain or shine!
+The community is invited to join the gardeners at the p-patch for the annual potluck.  Bring a dish to share.  Rain or shine!
 
 *   Monday, October 21st, [North Seattle Tech Talks: Intro to Machine Learning](https://www.meetup.com/North-Seattle-Tech-Talks/events/263943738/), 6-8PM, North Seattle College CC1161 <br>
 
@@ -28,6 +28,9 @@ Join NHL Seattle and Northgate Mall on October 1st from 5pm - 7pm PT to learn ab
 
 *   Wednesday, October 2nd @ 7-8:30PM, [SPD North Precinct Advisory Council](https://drive.google.com/drive/folders/1CVtS3RTpJT-W-yzizfUxoWs1Tco_JS7h), Northaven Senior Housing, Harbor Room  <br />
 Informal networking with law enforcement and community members follows the Captain’s precinct update as time permits.
+
+*   Friday, October 4th & October 17th [Cascadia Community Weeding](https://cascadiapta.org/2019/10/01/calling-all-gardeners-and-gardener-wanna-bes/), Cascadia Elementary 1330 N. 90th St. Seattle, WA 98103  <br />
+The grounds around Cascadia need some sprucing up and we need lots of help! Last year focused on weeding and mulching the beds around the parking lot. This year will continue last year’s efforts and expand to the beds all along Wallingford Avenue. Join the fun! Meet outside the school after drop-off on Friday, and we’ll make things better than we found them. Bring your own weeding gear if you have it—if not, we have tools you can use. No experience necessary! This is a great opportunity to pitch in for the greater good, build some community, and help make our school beautiful!
 
 *   Thursday, October 10th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/events/953740241626907/), Epic Life Church 10510 Stone Ave N<br />
 Joining ALUV this month is Deputy Mayor David Moseley.
