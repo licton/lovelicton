@@ -15,6 +15,7 @@ The community is invited to join the gardeners at the p-patch for the annual pot
 
 *   Thursday, October 31st, [Licton Springs Halloween Walk](https://www.facebook.com/events/386435295361451), 4:30-6PM, 
 Licton Springs Park <br>
+Walk the Licton Springs Park path and meet friends of the forest with treats. Free hot cider and music at the playground. All are welcome to this community event. Sponsored By Licton Springs Community Council. Interested in volunteering to be a friend of the forest? Contact Melanie at melaniedavies81@gmail.com
 
 [![Licton Springs Halloween Walk](/images/lictonspringshalloween2019.JPG)](/images/lictonspringshalloween2019.JPG)
 
