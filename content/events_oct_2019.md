@@ -13,7 +13,7 @@ The community is invited to join the gardeners at the p-patch for the annual pot
 
 *   Monday, October 21st, [North Seattle Tech Talks: Intro to Machine Learning](https://www.meetup.com/North-Seattle-Tech-Talks/events/263943738/), 6-8PM, North Seattle College CC1161 <br>
 
-*   Thursday, October 31st, Licton Springs Halloween Walk, 4:30-6PM, 
+*   Thursday, October 31st, [Licton Springs Halloween Walk](https://www.facebook.com/events/386435295361451), 4:30-6PM, 
 Licton Springs Park <br>
 
 [![Licton Springs Halloween Walk](/images/lictonspringshalloween2019.JPG)](/images/lictonspringshalloween2019.JPG)
