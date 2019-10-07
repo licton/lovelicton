@@ -35,6 +35,9 @@ Informal networking with law enforcement and community members follows the Capta
 *   Friday, October 4th & October 18th @ 8-10am, [Cascadia Community Weeding](https://cascadiapta.org/2019/10/01/calling-all-gardeners-and-gardener-wanna-bes/), Cascadia Elementary 1330 N. 90th St. Seattle, WA 98103  <br />
 The grounds around Cascadia need some sprucing up and we need lots of help! Last year focused on weeding and mulching the beds around the parking lot. This year will continue last year’s efforts and expand to the beds all along Wallingford Avenue. Join the fun! Meet outside the school after drop-off on Friday, and we’ll make things better than we found them. Bring your own weeding gear if you have it—if not, we have tools you can use. No experience necessary! This is a great opportunity to pitch in for the greater good, build some community, and help make our school beautiful!
 
+*   Wednesday, October 9th @ 6PM, [N. Precinct Public Meeting](https://www.facebook.com/events/457027868237536/), Washelli Chapel<br />
+This public meeting will be led by the North Precinct Captain (via Q & A forum style) with SPD,  and other local agencies to discuss crime and safety issues that are impacting Aurora businesses and homeowners. All are welcome to attend. Please join us and hear about what work Seattle Police has been doing Aurora.
+
 *   Thursday, October 10th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/events/953740241626907/), Epic Life Church 10510 Stone Ave N<br />
 Joining ALUV this month is Deputy Mayor David Moseley.
 
