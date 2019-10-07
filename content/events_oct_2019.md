@@ -16,6 +16,8 @@ The community is invited to join the gardeners at the p-patch for the annual pot
 *   Thursday, October 31st, Licton Springs Halloween Walk, 4:30-6PM, 
 Licton Springs Park <br>
 
+[![Licton Springs Halloween Walk](/images/lictonspringshalloween2019.JPG)](/images/lictonspringshalloween2019.JPG)
+
 ### Community Engagement Events:
 
 *   Tuesday, October 1st @ 5-7PM, [Northgate Redevelopment Open House](https://www.facebook.com/events/2381737485403233/), Northgate Mall Food Court  <br />
