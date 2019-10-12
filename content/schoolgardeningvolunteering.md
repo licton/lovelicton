@@ -6,7 +6,7 @@ Tags: General, School, Volunteering
 slug: school-gardening-volunteering
 og_image: images/schools.jpg
 
-Cascadia Elementary School and Robert Eagle Staff Middel School are looking for volunteers to help with grounds beautification!
+Cascadia Elementary School and Robert Eagle Staff Middle School are looking for volunteers to help with grounds beautification!
 
 The next weeding session for Cascadia Elementary school is on Friday, October 18th. You can find more information [here](https://cascadiapta.org/2019/10/01/calling-all-gardeners-and-gardener-wanna-bes/).
 
