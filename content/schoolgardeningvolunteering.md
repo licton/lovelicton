@@ -14,4 +14,4 @@ The next weeding session for Robert Eagle Staff Middle School is on Wednesday, O
 
 No experience necessary!
 
-This is a great opportunity to pitch in for the greater good, build some community, and help make the neighorhood schools beautiful!
+This is a great opportunity to pitch in for the greater good, build some community, and help make the neighborhood schools beautiful!
