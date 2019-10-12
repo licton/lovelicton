@@ -2,7 +2,7 @@ Title: Calling All Gardeners & Volunteers
 Date: 2019-10-11 13:00
 Author: amandacrosley
 Category: Community
-Tags: General, School, Gardering
+Tags: General, School, Volunteering
 slug: school-gardening-volunteering
 og_image: images/schools.jpg
 
