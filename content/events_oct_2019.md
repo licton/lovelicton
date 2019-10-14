@@ -13,6 +13,9 @@ The community is invited to join the gardeners at the p-patch for the annual pot
 
 *   Monday, October 21st, [North Seattle Tech Talks: Intro to Machine Learning](https://www.meetup.com/North-Seattle-Tech-Talks/events/263943738/), 6-8PM, North Seattle College CC1161 <br>
 
+*   Saturday, October 26th & Sunday, October 27th, [PSMS Wild Mushroom Show 2019](https://www.facebook.com/events/358886375040793/), North Seattle College <br>
+Join us at the 56th Annual Wild Mushroom Show so you too can say "Wow! I had no idea there were so many mushrooms" and "Can I eat it?".
+
 *   Thursday, October 31st, [Licton Springs Halloween Walk](https://www.facebook.com/events/386435295361451), 4:30-6PM, 
 Licton Springs Park <br>
 Walk the Licton Springs Park path and meet friends of the forest with treats. Free hot cider and music at the playground. All are welcome to this community event. Sponsored By Licton Springs Community Council. Interested in volunteering to be a friend of the forest? Contact Melanie at melaniedavies81@gmail.com
