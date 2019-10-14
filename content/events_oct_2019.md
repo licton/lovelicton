@@ -48,6 +48,9 @@ Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 Licton Springs Community Council represents the interests of the residents and the owners of commercial and professional businesses
 in the Licton Springs Neighborhood of the City of Seattle, Washington, to improve community welfare and happiness, and to promote a quality of life consonant with an urban, residential community. 
 
+*   Wednesday, October 23rd @ 5-7PM, [9300 Linden Ave New Apartment Bldg. Community Meeting](https://www.facebook.com/events/2516925261719666/), Lantern Brewing <br />
+New Small Efficiency Dwelling Units (SEDU's) planned for the site at 9300 Linden Ave behind the CubeSmart Self Storage facility. The design team from Jackson Main architecture will be holding a public meeting to solicit feedback from the community to help inform the design and create the most effective building for the site and neighborhood. More details [here](https://www.jacksonmain.com/linden-ave-apartments). 
+
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
 
 Hope to see you at an upcoming event!
