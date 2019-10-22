@@ -6,9 +6,9 @@ Tags: General, Community, Neighborhood,
 slug: aluv-community-center-cta
 og_image: images/aurorabridge.jpg
 
-While, we have written about the need for an Aurora-Licton Urban Village community center [earlier this year](https://lovelicton.com/aluv-community-center.html), we could use your help in letting the city council know about the need for funding of a feasability study in the 2020 budget.  The Licton Springs Community Council voted in support of this initiative. 
+While we have written about the need for an Aurora-Licton Urban Village community center [earlier this year](https://lovelicton.com/aluv-community-center.html), we could use your help in letting the city council know about the need for funding of a feasability study in the 2020 budget.  The Licton Springs Community Council voted in support of this initiative. 
 
-[![ALUV Boundaries and Seattle Community Centers ](/images/aluvcommunitycentermap.JPG)](/images/aluvcommunitycentermap.JPG)
+[![ALUV Boundaries and Seattle Community Centers ](/images/ALUVCommunitycentermap.JPG)](/images/ALUVCommunitycentermap.JPG)
 
 You can find a sample letter from ALUV [here](http://auroralictonuv.org/2019/10/20/funds-for-a-community-center-feasibility-study/). 
 
