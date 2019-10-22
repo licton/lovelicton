@@ -15,3 +15,4 @@ You can find a sample letter from ALUV [here](http://auroralictonuv.org/2019/10/
 If you support the idea of a neighborhood community center, reach out to your elected representatives, and those running to represent you, and let them know! You can reach the city council at council@seattle.gov.
 
 Also, if you are available, please attend and voice support at the Budget Hearing on Tuesday, October 22nd starting at 5:30 pm at City Hall (600 4th Ave). Sign-in begins at 3:00.
+ 
