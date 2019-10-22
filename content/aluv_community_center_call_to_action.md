@@ -1,9 +1,9 @@
-Title: Make a Licton Springs Community Center a Reality!
-Date: 2019-07-21 20:00
-Author: janicelichtenwaldt
+Title: Call to Action: ALUV Community Center Feasibility Funds
+Date: 2019-10-21 20:00
+Author: amandacrosley
 Category: Community
 Tags: General, Community, Neighborhood,
-slug: aluv-community-center
+slug: aluv-community-center-cta
 og_image: images/aurorabridge.jpg
 
 While, we have written about the need for an Aurora-Licton Urban Village community center [earlier this year](https://lovelicton.com/aluv-community-center.html), we could use your help in letting the city council know about the need for funding of a feasability study in the 2020 budget.  The Licton Springs Community Council voted in support of this initiative. 
