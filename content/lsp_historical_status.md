@@ -1,4 +1,4 @@
-Title: Landmarks Preservation Board to consider nomination of Licton Springs Park for landmark status
+Title: Landmarks Preservation Board approves nomination of Licton Springs Park for landmark status
 Date: 2019-10-30 13:00
 Author: amandacrosley
 Category: News
