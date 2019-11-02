@@ -8,9 +8,6 @@ og_image: images/lictonspringspark.jpg
 
 ### Social Events:
 
-Saturday, November 9th, Better Books Sale, 9AM-5PM, North Seattle College
-
-
 *   Sunday, November 3rd, [Danish Holiday Bazaar](https://www.facebook.com/events/2667606143262403/), 11-3PM, Northwest Danish Association (1833 N 105th) <br>
 Come eat and shop while you support the Northwest Danish Association! Open to the public. 
 
