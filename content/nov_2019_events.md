@@ -14,6 +14,10 @@ Come eat and shop while you support the Northwest Danish Association! Open to th
 *   Saturday, November 9th, [Better Books Sale](https://www.facebook.com/events/391376781772459/), 9AM-5PM, North Seattle College <br>
 This sale features hundreds of “like-new,” gift quality books of all genres starting at $3!
 
+* Wednesday, November 13th, Seattle City Art Celebration, 1PM-2PM, Seattle City Light. <br>
+
+[![Seattle City Light Art Celebration Flyer](/images/Trimble_citylight_art.JPG)](/images/Trimble_citylight_art.JPG)
+
 ### Community Engagement Events:
 
 *   November 3,6,8,10 & 13, [RESMS Grounds Beautification](https://www.signupgenius.com/go/8050845afa92cabf49-resms), 1-4PM, Robert Eagle Staff Middle School <br />
