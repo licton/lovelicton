@@ -14,7 +14,7 @@ Come eat and shop while you support the Northwest Danish Association! Open to th
 *   Saturday, November 9th, [Better Books Sale](https://www.facebook.com/events/391376781772459/), 9AM-5PM, North Seattle College <br>
 This sale features hundreds of “like-new,” gift quality books of all genres starting at $3!
 
-* Wednesday, November 13th, Seattle City Art Celebration, 1PM-2PM, Seattle City Light. <br>
+* Wednesday, November 13th, Seattle City Light Art Celebration, 1PM-2PM, Seattle City Light. <br>
 
 [![Seattle City Light Art Celebration Flyer](/images/Trimble_citylight_art.JPG)](/images/Trimble_citylight_art.JPG)
 
