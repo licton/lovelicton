@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Art
 Tags: General, Community, Art, Parks
 slug: city-light-art
-og_image: images/LictonFlow.jpg
+og_image: images/lictonflow2019.JPG
 
 You may already be familar with the Light Bulb Bench and Big Tesla located around the Seattle CityLight North Service Center building but [earlier this month](https://powerlines.seattle.gov/2019/11/14/city-light-unveils-new-public-artwork-at-its-north-service-center/), two new art works were dedicated by Seattle City Light and the City of Seattle Arts & Culture. 
 
