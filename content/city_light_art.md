@@ -13,7 +13,7 @@ You may already be familar with the Light Bulb Bench and Big Tesla located aroun
 
 The two pieces “Undulating Currents” and “Licton Flow”, located on N 97th St, were created by renowned artist [W. Scott Trimble](http://www.wstrimble.com/) and commissioned with the City Light 1% for Art funds administered by the Seattle Office of Arts & Culture.
 
-[![Seattle City Light 2019: W. Scott Trimble](/images/Trimble_citylight_art.JPG)](/images/Trimble_citylight_art.JPG)
+[![Seattle City Light 2019: W. Scott Trimble](/images/wscotttrimbleartworks.jpg)](/images/wscotttrimbleartworks.jpg)
 
 [![Seattle City Light Art](/images/SeattleCityLightArt.JPG)](/images/SeattleCityLightArt.JPG)
 
