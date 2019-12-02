@@ -3,8 +3,8 @@ Date: 2019-11-02 14:00
 Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
-slug: dec-events-2019
-og_image: images/MineralSpringsHolidayEvent2018.jpg
+slug: dec-2019-events
+og_image: images/lictonspringspark.jpg
 
 ### Social Events:
 
