@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/</loc>
-<lastmod>2019-12-02T21:21:53-00:00</lastmod>
+<lastmod>2019-12-02T21:23:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/archives.html</loc>
-<lastmod>2019-12-02T21:21:53-00:00</lastmod>
+<lastmod>2019-12-02T21:23:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tags.html</loc>
-<lastmod>2019-12-02T21:21:53-00:00</lastmod>
+<lastmod>2019-12-02T21:23:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/categories.html</loc>
-<lastmod>2019-12-02T21:21:53-00:00</lastmod>
+<lastmod>2019-12-02T21:23:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,6 +95,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://lovelicton.com/dec-2019-events.html</loc>
+<lastmod>2019-12-02T20:00:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://lovelicton.com/city-light-art.html</loc>
 <lastmod>2019-11-26T21:00:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -104,13 +111,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://lovelicton.com/lscc-survey.html</loc>
 <lastmod>2019-11-15T21:00:00-08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/dec-2019-events.html</loc>
-<lastmod>2019-11-02T14:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -796,7 +796,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/category/events.html</loc>
-<lastmod>2019-11-02T14:00:00-07:53</lastmod>
+<lastmod>2019-12-02T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -949,14 +949,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://lovelicton.com/tag/art.html</loc>
-<lastmod>2019-11-26T21:00:00-07:53</lastmod>
+<loc>https://lovelicton.com/tag/community-meeting.html</loc>
+<lastmod>2019-12-02T20:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/event.html</loc>
+<lastmod>2019-12-02T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tag/parks.html</loc>
+<lastmod>2019-12-02T20:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/art.html</loc>
 <lastmod>2019-11-26T21:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -965,20 +979,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://lovelicton.com/tag/survey.html</loc>
 <lastmod>2019-11-15T21:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/tag/community-meeting.html</loc>
-<lastmod>2019-11-02T14:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/tag/event.html</loc>
-<lastmod>2019-11-02T14:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
