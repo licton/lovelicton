@@ -1,5 +1,5 @@
 Title: December 2019 Community Events
-Date: 2019-11-02 21:00
+Date: 2019-11-02 14:00
 Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
