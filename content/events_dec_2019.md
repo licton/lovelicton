@@ -18,13 +18,16 @@ Come join us at Mineral Springs Park on Saturday, December 21st from 1PM to 4PM 
 *   Wednesday, December 4th @ 7-8:30PM, [SPD North Precinct Advisory Council](https://seattlenpac.blogspot.com/), Northaven Senior Housing, Harbor Room  <br />
 Informal networking with law enforcement and community members follows the Captain’s precinct update as time permits.
 
+*   Saturday, December 7th @ 10AM, [Licton Lights](https://www.facebook.com/events/765967403884537/), Licton Springs Park  <br />
+Please visit Licton Springs Park to enjoy the holiday lights between 12.7.19 and 1.11.20. Lights will be on from 4:30-10:00 daily. We will string lights on Saturday 12.7.19 at 10 AM. Come out to help or donate LED lights. 
+
 *   Thursday, December 12th @ 7PM, [ALUV Monthly Meeting](https://www.facebook.com/events/2543178332579949/), Lantern Brewing <br />
 Join us as we celebrate our WINS for 2019, including 1) installation of art on pedestrian bridge 2) D5 Rising neighbor award 3) $150,000 in the 2020 budget for a community center feasibility study.
 
 *   Saturday, December 14th @ 10AM-2PM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf), Licton Springs Park <br />
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
-Please note there is no Licton Sprinsg Community Council meeting in December. 
+Please note there is no Licton Springs Community Council meeting in December. 
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
 
