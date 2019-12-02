@@ -27,6 +27,8 @@ Join us as we celebrate our WINS for 2019, including 1) installation of art on p
 *   Saturday, December 14th @ 10AM-2PM, [Friends of Licton Springs Park Clean Up](https://lictonsprings.org/work_party.pdf), Licton Springs Park <br />
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
+[![Annual Sock Drive for North Precinct](/images/NorthPrecinctSockDrive2019.JPG)](/images/NorthPrecinctSockDrive2019.JPG)
+
 Please note there is no Licton Springs Community Council meeting in December. 
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
