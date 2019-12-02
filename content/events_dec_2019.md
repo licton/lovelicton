@@ -1,10 +1,10 @@
 Title: December 2019 Community Events
-Date: 2019-11-02 14:00
+Date: 2019-12-02 20:00
 Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
 slug: dec-2019-events
-og_image: images/lictonspringspark.jpg
+og_image: images/MineralSpringsHolidayEvent2018.jpg
 
 ### Social Events:
 
