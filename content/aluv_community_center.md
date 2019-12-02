@@ -10,3 +10,4 @@ Earlier this year, we wrote about the need for an [Aurora-Licton community cente
 
 You can join ALUV in celebrating this win (along with many others) on Thursday, December 12th from 7PM to 8:30PM at Lantern Brewing. Find the Facebook event [here](https://www.facebook.com/events/2543178332579949/). 
 
+
