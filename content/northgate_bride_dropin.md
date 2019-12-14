@@ -1,4 +1,4 @@
-Title: Pedestrian Bridge Updates
+Title: Pedestrian Bridge Drop In Sessions Coming in 2020
 Date: 2019-12-13 20:00
 Author: amandacrosley
 Category: Information
