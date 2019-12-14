@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Information
 Tags: General, Transportation, Pedestrian, Bridge
 slug: northgate-bridge-drop-ins
-og_image: images/bridge/neighborcare_health.jpg
+og_image: images/NSCsign.jpg
 
 We're excited to announce that construction of the Northgate Pedestrian and Bicycle Bridge is expected to begin in early 2020. 
 
