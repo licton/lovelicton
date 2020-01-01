@@ -11,7 +11,9 @@ og_image: images/treesforseattle2019.jpg
 *   Tuesday, January 7th @ 12-1:30PM, [Northgate Bridge Construction Drop In Discussion](http://www.seattle.gov/transportation/projects-and-programs/programs/bridges-stairs-and-other-structures/bridges/northgate-pedestrian-and-bicycle-bridge), North Seattle College (The Grove) <br />
 Attend a session and learn about how this project will connect communities on the east and west sides of I-5 in north Seattle, review information at your own speed and get one-on-on engagement from project experts, learn about the project schedule and what to expect during construction 
 
-*   Saturday, January 11th @ 10AM-2PM, [Licton Springs Park Work Party](https://lictonsprings.org), Licton Springs Park  <br />
+*   Thursday, January 9th @ 7PM-830PM, [ALUV Monthly Meeting](https://lictonsprings.org), Epic Life Church  <br />
+
+*   Saturday, January 11th @ 10AM-2PM, [Licton Springs Park Work Party](https://www.facebook.com/AuroraLicton/), Licton Springs Park  <br />
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
 *   Wednesday, January 15th @ 6:30PM-8PM, [Licton Springs Community Council Meeting](https://www.facebook.com/events/2821332687910132/), Cascadia Elementary School 
