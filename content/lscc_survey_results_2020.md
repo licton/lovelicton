@@ -10,6 +10,8 @@ LoveLicton is excited to share the 2019-2020 Licton Springs Community Council su
  
 Top themes included concerns over RVs in our neighborhood, state of the sidewalks (especially north of 100th), interest in business developement/ additional commerce,  safety & crime, cleanliness/litter control and need for a community center. 
  
+ [![LSCC Survey Results:Issues](/images/LSCCSurveyIssues.JPG)](/images/LSCCSurveyIssues.JPG)
+ 
 As a result of the survey, the Licton Springs Community Council will be discussing the issues identified and sharing the results with our City representatives. Based on inital discussions with city representatives, they encouraged the continued use of the [Find It-Fix It app](http://www.seattle.gov/customer-service-bureau/find-it-fix-it-mobile-app) for illegal dumping and other related issues. The community council will also reach out to individuals who have expressed interest in volunteering. 
 
 Thank you to [Salt Blade](https://www.saltblade.com/) for sponsoring a prize for the survey. LSCC has contacted the winner. 
