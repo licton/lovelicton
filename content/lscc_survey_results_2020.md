@@ -8,7 +8,7 @@ og_image: images/burgermasterlictonsprings.jpg
 
 LoveLicton is excited to share the 2019-2020 Licton Springs Community Council survey results. The survey began November 13, 2019 and ran through January 6, 2020. LSCC received 69 responses. The majority of respondents are long term residents, living in Licton Springs for more than 5 years. Only 29% of respondents had ever attended a LSCC meeting. <b> Please join us for the next LSCC meeting on February 26th from 6:30PM to 8:30PM at Cascadia School Library. </b> 
  
-Top themes included concerns over safety & crime, cleanliness/litter control, RVs in our neighborhood, state of the sidewalks (especially north of 100th), interest in business developement/ additional commerce, and need for a [community center](https://lovelicton.com/aluv-cc-feasibility.html). 
+Top themes included concerns over safety & crime, cleanliness/litter control, RVs in our neighborhood, state of the sidewalks (especially north of 100th), interest in business development/ additional commerce, and need for a [community center](https://lovelicton.com/aluv-cc-feasibility.html). 
  
  [![LSCC Survey Results:Issues](/images/LSCCSurveyIssues.JPG)](/images/LSCCSurveyIssues.JPG)
  
