@@ -9,7 +9,9 @@ og_image: images/lictonspringslandmark.jpg
 LoveLicton is excited to share the 2019-2020 Licton Springs Community Council survey results. The survey began November 13, 2019 and ran through January 6, 2020. LSCC received 69 responses. The majority of respondents are long term residents, living in Licton Springs for more than 5 years. Only 29% of respondents had ever attended a LSCC meeting. <b> Please join us for the next LSCC meeting on Feburary 26th from 6:30PM to 8:30PM at Cascadia School Library. </b> 
  
 Top themes included concerns over RVs in our neighborhood, state of the sidewalks (especially north of 100th), interest in business developement/ additional commerce,  safety & crime, cleanliness/litter control and need for a community center. 
- 
+
+[![LSCC Survey Results:Issues](/images/LSCCSurveyIssues.JPG)](/images/LSCCSurveyIssues.JPG)
+
 As a result of the survey, the Licton Springs Community Council will be discussing the issues identified and sharing the results with our City representatives. Based on inital discussions with city representatives, they encouraged the continued use of the Find It-Fix It app for illegal dumping and other related issues. The community council will also reach out to individuals who have expressed interest in volunteering. 
  
 Want to give back? Licton Springs Community Council is a 501c(3) organization which participates in the Fred Meyer Community Rewards Program as well as Amazon Smile. 
