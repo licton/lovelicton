@@ -13,7 +13,7 @@ Attend a session and learn about how this project will connect communities on th
 
 *   Thursday, January 9th @ 7PM-830PM, [ALUV Monthly Meeting](https://www.facebook.com/events/589295985182142), Epic Life Church  <br />
 
-*   Saturday, January 11th @ 10AM-2PM, [Licton Springs Park Work Party](https://lictonsprings.org), Licton Springs Park  <br />
+*   Saturday, January 11th @ 10AM-2PM, [Licton Springs Park Work Party](/images/LictonSpringsPark2020.JPG), Licton Springs Park  <br />
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
 ~~*   Wednesday, January 15th @ 6:30PM-8PM, [Licton Springs Community Council Meeting](https://www.facebook.com/events/2821332687910132/), Cascadia Elementary School 
