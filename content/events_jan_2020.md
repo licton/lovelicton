@@ -16,7 +16,9 @@ Attend a session and learn about how this project will connect communities on th
 *   Saturday, January 11th @ 10AM-2PM, [Licton Springs Park Work Party](https://lictonsprings.org), Licton Springs Park  <br />
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
-*   Wednesday, January 15th @ 6:30PM-8PM, [Licton Springs Community Council Meeting](https://www.facebook.com/events/2821332687910132/), Cascadia Elementary School 
+~~*   Wednesday, January 15th @ 6:30PM-8PM, [Licton Springs Community Council Meeting](https://www.facebook.com/events/2821332687910132/), Cascadia Elementary School 
+
+*   Wednesday, January 22nd @ 6:30PM-8:30PM, [Rescheduled Licton Springs Community Council Meeting](https://www.facebook.com/events/655913735218886/), Cascadia Elementary School <br />
 
 *  Monday, January 20th @ 9AM-noon, [MLK Day of Service Tree Planting Party in Licton Springs](https://www.facebook.com/events/585148942264366), 85th & Meridian <br />
 Come help us plant some new green in the neighborhood! Volunteers have been working at this site for the past couple of years to remove blackberry that was blanketing this site. Now we are ready to replace these with trees that will grow and benefit the entire neighborhood. Join us! Tool and gloves provided, no experience necessary. RSVP here: https://www.surveymonkey.com/r/QVHNKD3  or email TreeAmbassador@seattle.gov 
