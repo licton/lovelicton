@@ -27,6 +27,8 @@ Quick facts about the new bridge:
 
 The first phase of construction over the next several months will focus on clearing vegetation, preparing watercourse work, drilling bridge shafts, and constructing girders for the bridge spans which happens offsite. As neighbors to the project, we can expect to see large machinery, dust, noise, debris, and traffic impacts from lane closures and shifts. 
 
+[![Summary](/images/ngatebridgesummary.JPG)](/images/ngatebridgesummary.JPG)
+
 To learn more visit www.seattle.gov/transportation/NorthgatePedBridge
 
 Additionally, there will be a groundbreaking ceremony held on Feburary 5th from 2PM to 3PM at Northgate Station Garage (at the intersection of 1st Ave NE and NE 103rd St)​. At the event, you’ll hear from District 5 Councilmember Debora Juarez, Seattle Department of Transportation Director Sam Zimbabwe, Sound Transit CEO Peter Rogoff, and representatives from Washington State Department of Transportation and key community groups. To RSVP, please email northgatebridge@seattle.gov. 
