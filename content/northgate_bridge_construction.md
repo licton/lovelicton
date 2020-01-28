@@ -14,8 +14,8 @@ We are excited to share that the construction is approved to begin today, Januar
 
 Quick facts about the new bridge:
 
-*	When complete, the bridge will be 1,900 feet long. <br>
-*	West approach designed to maintain sightlines and preserve natural habitat <br>
+•	When complete, the bridge will be 1,900 feet long. <br>
+•	West approach designed to maintain sightlines and preserve natural habitat <br>
 •	East approach designed to preserve parking<br>
 •	Only a 10-minute walk from one side to the other<br>
 •	1,500 anticipated users per day<br>
