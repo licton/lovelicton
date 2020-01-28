@@ -10,6 +10,8 @@ Several Licton Springs Community Council board members stopped by the Northgate 
 
 We are excited to share that the construction is approved to begin today, January 27, 2020. The bridge will connect NE 100th Ave and 1st Ave NE & NE 100th, near the future light rail station in Northgate. 
 
+[![Map](/images/ngatebridgeproject.JPG)](/images/ngatebridgeproject.JPG)
+
 Quick facts about the new bridge:
 
 *	When complete, the bridge will be 1,900 feet long. <br>
