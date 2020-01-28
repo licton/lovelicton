@@ -4,7 +4,7 @@ Author: janicelichtenwaldt
 Category: Community
 Tags: General, Community, Neighborhood, Construction
 slug: pedestrian-bridge-construction
-og_image: images/PolicePicnics2019.JPG
+og_image: images/ngatepedbridge.JPG
 
 Several Licton Springs Community Council board members stopped by the Northgate Ped/Bike Bridge Project Information Session held at North Seattle College on January 7th to learn more about construction efforts. 
 
