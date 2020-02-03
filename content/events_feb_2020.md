@@ -15,7 +15,7 @@ Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
 *   Thursday, February 13th @ 7PM-830PM, [ALUV Monthly Meeting](https://www.facebook.com/events/466863684199728/), Epic Life Church  <br /> Guest speaker this month is Mark Mendez Lake City’s mural mastermind. A continued goal for ALUV is community building and vibrancy through art and Mark has a wealth of knowledge that he will share.
 
-*   Wednesday, February 26th @ 6:30PM-8:30PM, [Licton Springs Community Council Meeting](lictonsprings.org), Cascadia Elementary School <br />
+*   Wednesday, February 26th @ 6:30PM-8:30PM, [Licton Springs Community Council Meeting](https://lictonsprings.org/), Cascadia Elementary School <br />
 
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
