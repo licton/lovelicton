@@ -8,6 +8,8 @@ og_image: images/Northparkart.jpg
 
 ### Community Engagement Events:
 
+*   Wednesday, February 5th @ 2-3PM, [Northgate Ped/Bike Bridge Groundbreaking](https://www.facebook.com/events/600376797474390/), Northgate Station Garage <br /> The Northgate Ped/Bike Bridge is approaching a major milestone, please join in the celebration! CM Juarez is hosting a groundbreaking event to commemorate construction and to recognize all those who have made this project possible. At the event, you’ll hear from Seattle Department of Transportation Director Sam Zimbabwe, Sound Transit CEO Peter Rogoff, representatives from Washington State Department of Transportation, and key community groups.
+
 *   Wednesday, February 5th @ 7PM-830PM, [North Precinct Advisory Council](https://seattlenpac.blogspot.com/), Northhaven Senior Housing  <br /> This meeting is devoted to promoting partnerships and information sharing between citizens and law enforcement and justice agencies to effectively address public safety issues.
 
 *   Saturday, February 8th @ 10AM-2PM, [Licton Springs Park Work Party](/images/LictonSpringsPark2020.JPG), Licton Springs Park  <br />
