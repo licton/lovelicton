@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
 slug: feb-2020-events
-og_image: images/treesforseattle2019.jpg
+og_image: images/Northparkart.jpg
 
 ### Community Engagement Events:
 
