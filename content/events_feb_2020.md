@@ -8,12 +8,12 @@ og_image: images/treesforseattle2019.jpg
 
 ### Community Engagement Events:
 
-*   Wednesday, February 5th @ 7PM-830PM, [North Precinct Advisory Council](https://seattlenpac.blogspot.com/), Northhaven Senior Housing  <br />
+*   Wednesday, February 5th @ 7PM-830PM, [North Precinct Advisory Council](https://seattlenpac.blogspot.com/), Northhaven Senior Housing  <br /> This meeting is devoted to promoting partnerships and information sharing between citizens and law enforcement and justice agencies to effectively address public safety issues.
 
 *   Saturday, February 8th @ 10AM-2PM, [Licton Springs Park Work Party](/images/LictonSpringsPark2020.JPG), Licton Springs Park  <br />
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
-*   Thursday, February 13th @ 7PM-830PM, [ALUV Monthly Meeting](https://www.facebook.com/events/589295985182142), Epic Life Church  <br />
+*   Thursday, February 13th @ 7PM-830PM, [ALUV Monthly Meeting](https://www.facebook.com/events/466863684199728/), Epic Life Church  <br /> Guest speaker this month is Mark Mendez Lake City’s mural mastermind. A continued goal for ALUV is community building and vibrancy through art and Mark has a wealth of knowledge that he will share.
 
 *   Wednesday, February 26th @ 6:30PM-8:30PM, [Licton Springs Community Council Meeting](lictonsprings.org), Cascadia Elementary School <br />
 
