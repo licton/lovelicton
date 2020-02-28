@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks
 slug: march-2020-events
-og_image: images/ictonspringsparktrees.JPG
+og_image: images/lictonspringsparktrees.JPG
 
 ### Community Engagement Events:
 
