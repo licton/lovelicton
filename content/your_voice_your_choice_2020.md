@@ -16,3 +16,4 @@ Once ideas are submitted, volunteers are recruited to turn the ideas into 8 – 
  
 Share your ideas today! You can learn more about the YVYC process and how to get involved [here](http://www.seattle.gov/neighborhoods/programs-and-services/your-voice-your-choice). For questions, email shaquan.smith@seattle.gov or call 206-256-5944.
 
+Greenwood-Phinney and Licton-Haller Greenways will be hosting a community idea gathering event for YVYC @ 7:00-9:00 PM on Monday March 2, 2020 at Couth Buzzard Books, 8310 Greenwood Ave N.
