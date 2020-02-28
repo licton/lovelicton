@@ -22,6 +22,6 @@ Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 Note: Later date due to meeting space availability 
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
-
+ 
 Hope to see you at an upcoming event!
 Did we miss something? Let us know in the comments below or by emailing us at [lovelicton@gmail.com](mailto:lovelicton@gmail.com)
