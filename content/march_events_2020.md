@@ -18,7 +18,7 @@ Together, the Seattle Fire Department (SFD) and the City’s Department of Finan
 *   Saturday, March 14th @ 10AM-2PM, [Licton Springs Park Work Party](/images/LictonSpringsPark2020.JPG), Licton Springs Park  <br />
 Join FRIENDS OF LICTON SPRINGS for our monthly work party.
 
-*   Wednesday, March 25th @ 6:30PM-8:30PM, [Licton Springs Community Council Meeting], Cascadia Elementary School <br />
+*   Wednesday, March 25th @ 6:30PM-8:30PM, [Licton Springs Community Council Meeting](http://lictonsprings.org/), Cascadia Elementary School <br />
 Note: Later date due to meeting space availability 
 
 To stay up to date on other activities coming up, check out LoveLicton's [calendar](https://lovelicton.com/pages/community-calendar.html).
