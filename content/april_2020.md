@@ -1,4 +1,4 @@
-Title: April Community Resoures & Connections 
+Title: April Community Resources & Connections 
 Date: 2020-04-04 13:00
 Author: amandacrosley
 Category: Events
