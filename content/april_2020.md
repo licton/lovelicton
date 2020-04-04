@@ -8,7 +8,8 @@ og_image: images/lictonspringsparktrees.JPG
 
 Every month, we share the upcoming community events in Licton Springs. Given the current environment, most meetings have been postponed or moved virtually. You can check out the meetings still happening below. This month, we'd like to share a few resources out. 
 
-* [Office of the Mayor COVID-19: Resources for Community](https://www.seattle.gov/mayor/covid-19)
+* [Seattle Office of the Mayor COVID-19: Resources for Community](https://www.seattle.gov/mayor/covid-19)
+* [WA State Coronavirus Response](https://www.coronavirus.wa.gov)
 * [For North Seattle](https://www.facebook.com/groups/fornorthseattle/?ref=br_rs)
 * [Buy Nothing Licton Springs/North College Park, Seattle, WA](https://www.facebook.com/groups/131617810551046/)
 * [Community Crowdsourced SEATTLE COVID-19 Document of Resources](https://docs.google.com/document/d/1H5qt--7wRfx4z5jzgi0aJtLKbyYr1vBDTA02Zt7gmac/edit?fbclid=IwAR1b9jnIpIjBdb06VCjw-U1B9Bs2jOdmKC-4VJIL931ASORQvOXnPilxzDo) 
