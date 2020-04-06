@@ -16,7 +16,7 @@ Every month, we share the upcoming community events in Licton Springs. Given the
 
 ### Community Engagement Events:
 
-*  Tuesday, April 6th - Mineral Springs Park Community Meeting, 6:30PM-8PM, Phone Conference Call, Dial (425) 436-6353, when asked enter 824120#
+*  Tuesday, April 7th - Mineral Springs Park Community Meeting, 6:30PM-8PM, Phone Conference Call, Dial (425) 436-6353, when asked enter 824120#
 
 *   Wednesday, April 15th @ 6:30PM-8:30PM, [Licton Springs Community Council Meeting](http://lictonsprings.org/), Zoom https://zoom.us/j/521529297 <br />
 Note: Later date due to meeting space availability 
