@@ -1,10 +1,10 @@
 Title: May Community Resources & Connections 
-Date: 2020-05-01 13:00
+Date: 2020-04-30 13:00
 Author: amandacrosley
 Category: Events
 Tags: General, Community Meeting, Event, Parks, Knowledge
 slug: may-2020-events
-og_image: images/lictonspringsparktrees.JPG
+og_image: images/meridianart.JPG
 
 Every month, we share the upcoming community events in Licton Springs. Given the current environment, most meetings have been postponed or moved virtually. You can check out the meetings still happening below. 
 
