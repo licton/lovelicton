@@ -1,4 +1,4 @@
-Title: May Community Resources & Connections 
+Title: Stay Healthy Streets Come to Licton Springs
 Date: 2020-05-02 14:00
 Author: amandacrosley
 Category: Events
