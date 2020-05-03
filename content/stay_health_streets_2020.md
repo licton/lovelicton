@@ -6,7 +6,7 @@ Tags: General, Covid19
 slug: stay-healthy-streets
 og_image: images/StayHealthyStreetsALUV.JPG
 
-Yesterday, SDOT announced 11 more miles of [Stay Healthy Streets](https://sdotblog.seattle.gov/2020/05/01/get-ready-11-more-miles-of-stay-healthy-streets-coming-your-way/) including one in [Licton Springs!](https://www.seattle.gov/Documents/Departments/SDOT/Greenways/NGW/StayHealthyStreets_AuroraLicton_Map.pdf)
+Yesterday, SDOT announced 11 more miles of [Stay Healthy Streets](https://sdotblog.seattle.gov/2020/05/01/get-ready-11-more-miles-of-stay-healthy-streets-coming-your-way/) including one in [Licton Springs.](https://www.seattle.gov/Documents/Departments/SDOT/Greenways/NGW/StayHealthyStreets_AuroraLicton_Map.pdf)
 
 [Stay Healthy Streets](https://sdotblog.seattle.gov/2020/04/16/announcing-stay-healthy-streets/) are part of an initiative by the Mayor and SDOT to give people sufficent space to safely walk, bike, and roll for exercise and essential transportation. 
 
