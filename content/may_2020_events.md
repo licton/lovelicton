@@ -24,7 +24,7 @@ Join Mayor Jenny A. Durkan, Councilmember Juarez, Councilmember Petersen, Counci
 RSPV at [https://tinyurl.com/townhallcovid](https://tinyurl.com/townhallcovid) <br> 
 You can join the meeting from any PC or mobile device browser with this link: [Join the meeting](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjoin-noam.broadcast.skype.com%2Fseattle.gov%2Fac6b2a5bb2964bd88b6929bd7fe7d927&data=02%7C01%7C%7C999d36abfa63421f447b08d7eb8beabe%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637236858475381921&sdata=%2BFxpXTGtIRGHHM%2BFdQHh%2BWPmrGEyA9V7uQMUJdevhDc%3D&reserved=0)
 
-*   Wednesday, May 20th @ 6:30PM-8:30PM, [Licton Springs Community Council Meeting](http://lictonsprings.org/), Zoom https://zoom.us/j/521529297 <br />
+*   Wednesday, May 20th @ 6:30PM-8:30PM, [Licton Springs Community Council Meeting](http://lictonsprings.org/), Zoom https://us02web.zoom.us/j/84675350498 <br />
 Note: Invite/Location subject to change
 
 Did we miss something? Let us know in the comments below or by emailing us at [lovelicton@gmail.com](mailto:lovelicton@gmail.com)
