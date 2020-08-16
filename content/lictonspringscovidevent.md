@@ -16,6 +16,7 @@ We are also raising funds by selling neighborhood t-shirts to help celebrate the
 
 The shirts feature the original name of Licton Springs: líq’tәd. líq’tәd means Red-Paint in Puget Sound’s Lushootseed language. We sought out and received approval to use the Lushootseed word in our efforts to educate the larger community about the rich history of our neighborhood. You can purchase your t-shirt at: https://www.zazzle.com/store/licton_springs_cc
 
-[![Licton Springs Shirt Design](/images/lictonspringstshirts2020.jpeg](/images/lictonspringstshirts2020.jpeg)
+
+[![Licton Springs Shirt Design](/images/lictonspringstshirts2020.jpeg)](/images/lictonspringstshirts2020.jpeg)
 
 For questions, please email lictonsprings@hotmail.com
