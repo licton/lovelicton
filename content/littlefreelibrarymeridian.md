@@ -4,7 +4,7 @@ Author: amandacrosley
 Category: Community
 Tags: General, Library, Free
 slug: little-free-library-2020
-og_image: images/LFLBooks.jpg
+og_image: images/littlefreelibrarymeridian.jpg
 
 A neighbor posted on the local [Licton Springs Buy Nothing Group](https://www.facebook.com/groups/131617810551046) that there is another [Little Free Library](https://littlefreelibrary.org/) in Licton Springs! 
 
