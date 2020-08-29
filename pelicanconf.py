@@ -37,7 +37,7 @@ AUTHORS_BIO = {
         "cover": "images/spring/bird.jpg",
         "image": "images/amandacrosley.jpg",
         "location": "Licton Springs, Seattle, WA",
-        "bio": "When I'm not mentoring the next generation of STEM leaders, urban hiking through Seattle or playing arcade/board games, you can find me @ Microsoft driving analytics for Bing Ads search advertising."
+        "bio": "When I'm not mentoring the next generation of STEM leaders, urban hiking through Seattle or playing arcade/board games, you can find me @ Facebook driving product growth."
     },
     "janicelichtenwaldt": {
         "name": "Janice Lichtenwaldt",
