@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/</loc>
-<lastmod>2020-08-29T00:08:53-00:00</lastmod>
+<lastmod>2020-09-24T04:35:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/archives.html</loc>
-<lastmod>2020-08-29T00:08:53-00:00</lastmod>
+<lastmod>2020-09-24T04:35:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tags.html</loc>
-<lastmod>2020-08-29T00:08:53-00:00</lastmod>
+<lastmod>2020-09-24T04:35:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/categories.html</loc>
-<lastmod>2020-08-29T00:08:53-00:00</lastmod>
+<lastmod>2020-09-24T04:35:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -83,6 +83,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://lovelicton.com/pages/search.html</loc>
 <lastmod>2018-11-23T17:18:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/halloween-2020.html</loc>
+<lastmod>2020-09-23T20:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -908,7 +915,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/category/events.html</loc>
-<lastmod>2020-08-15T21:00:00-07:53</lastmod>
+<lastmod>2020-09-23T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1048,7 +1055,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/tag/general.html</loc>
-<lastmod>2020-08-28T13:00:00-07:53</lastmod>
+<lastmod>2020-09-23T20:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/community.html</loc>
+<lastmod>2020-09-23T20:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/event.html</loc>
+<lastmod>2020-09-23T20:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/covid-19.html</loc>
+<lastmod>2020-09-23T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1082,13 +1110,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://lovelicton.com/tag/community.html</loc>
-<lastmod>2020-08-16T19:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://lovelicton.com/tag/covid.html</loc>
 <lastmod>2020-08-16T19:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
@@ -1111,13 +1132,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/tag/community-meeting.html</loc>
-<lastmod>2020-05-29T13:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/tag/event.html</loc>
 <lastmod>2020-05-29T13:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -1657,7 +1671,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/author/amandacrosley.html</loc>
-<lastmod>2020-08-28T13:00:00-07:53</lastmod>
+<lastmod>2020-09-23T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
