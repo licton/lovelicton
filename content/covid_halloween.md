@@ -1,4 +1,4 @@
-Title: Looking for Volunteers for the Licton Springs Halloween Walk
+Title: No 2020 Licton Springs Halloween Event This Year
 Date: 2020-09-23 20:00
 Author: amandacrosley
 Category: Events
