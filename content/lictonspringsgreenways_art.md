@@ -1,5 +1,5 @@
 
-Title: Check out the new art in Licton Springs!
+Title: Check Out the New Art in Licton Springs!
 Date: 2020-10-17 20:00 
 Author: amandacrosley 
 Category: Art
