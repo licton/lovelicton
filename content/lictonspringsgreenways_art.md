@@ -7,7 +7,7 @@ Tags: General, Community, Art
 slug: greenways-art-2020
 og_image: images/IMG_20201015_184347015.jpg
 
-Next time you're walking around the neighborhood, take a stroll down 92nd and 100th between Fremont and Wallingford to see [all sorts of art exhibits!](https://artbeat.seattle.gov/2020/10/14/art-interruptions-2020-licton-springs-neighborhood-greenway/). 
+Next time you're walking around the neighborhood, take a stroll down 92nd and 100th between Fremont and Wallingford to see [all sorts of art exhibits!](https://artbeat.seattle.gov/2020/10/14/art-interruptions-2020-licton-springs-neighborhood-greenway/) 
 
 We had a chance to check out, "One Time, One Meeting: A Community Shrine” by [Erin Shigaki](http://www.purplegatedesign.com/). The wooden placards bear words of hope and contemplation by and for the community during the global pandemic. 
 
