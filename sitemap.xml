@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/</loc>
-<lastmod>2020-11-28T00:46:16-00:00</lastmod>
+<lastmod>2021-06-30T17:24:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/archives.html</loc>
-<lastmod>2020-11-28T00:46:16-00:00</lastmod>
+<lastmod>2021-06-30T17:24:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tags.html</loc>
-<lastmod>2020-11-28T00:46:16-00:00</lastmod>
+<lastmod>2021-06-30T17:24:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/categories.html</loc>
-<lastmod>2020-11-28T00:46:16-00:00</lastmod>
+<lastmod>2021-06-30T17:24:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -83,6 +83,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://lovelicton.com/pages/search.html</loc>
 <lastmod>2018-11-23T17:18:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/pilgrim-coffeehouse-grand-opening-2021.html</loc>
+<lastmod>2021-07-30T20:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -922,7 +929,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/category/business.html</loc>
-<lastmod>2020-11-27T20:00:00-07:53</lastmod>
+<lastmod>2021-07-30T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1083,14 +1090,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/tag/general.html</loc>
-<lastmod>2020-11-27T20:00:00-07:53</lastmod>
+<lastmod>2021-07-30T20:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/business.html</loc>
+<lastmod>2021-07-30T20:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lovelicton.com/tag/coffee.html</loc>
+<lastmod>2021-07-30T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://lovelicton.com/tag/community.html</loc>
-<lastmod>2020-11-27T20:00:00-07:53</lastmod>
+<lastmod>2021-07-30T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1104,13 +1125,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/tag/covid19.html</loc>
-<lastmod>2020-11-27T20:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/tag/business.html</loc>
 <lastmod>2020-11-27T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -1322,13 +1336,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://lovelicton.com/tag/clean-up.html</loc>
 <lastmod>2019-06-19T19:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lovelicton.com/tag/coffee.html</loc>
-<lastmod>2019-06-18T19:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1713,7 +1720,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lovelicton.com/author/timothycrosley.html</loc>
-<lastmod>2019-03-22T19:30:00-07:53</lastmod>
+<lastmod>2021-07-30T20:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
